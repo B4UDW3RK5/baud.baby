@@ -1,0 +1,126 @@
+                                                 ________  ________  ________
+   2018-11-28                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   A  hush  falls  over  the  crowd  as  Cat  /        _/         /         /
+approaches the podium. He hesitates a moment  \_______/_\___/____/\___/____/_
+to adjust  his notes before leaning into the    /        \/        \/    /   \
+mic.                                           /        _/         /_       _/
+                                              /-        /        _/         /
+   "tilde.tel!"                               \________/\________/\___/____/
+
+   Rocking back on  his  heels, lifting  his face skyward,  Cat burps long and
+loud as  he derezzes into  a cloud  of  pink voxels to  the  sound  of  polite
+applause.
+
+   For those just tuning in, let's do a one last quick  note on the SDF thing.
+For reals this time since my last  file kind of fizzled out  when I got snotty
+about life.
+
+   One question I got asked, like, weeks ago but didn't address around the SDF
+drama is whether there's  any animosity there but really there isn't.  I don't
+hold grudges and I'll still be around, it just  reminded me that  it's  not my
+system  and  should be  treated the same way I'd treat  any other  third-party
+system; make sure I'm always backing  up my shit,  don't  use  it for anything
+mission-critical, don't sink money  into it that could be better spent on DIY,
+etc.  Don't  rely  on  people you don't know. There's some back and forth that
+went  on behind  the scenes that's really nobody's business but suffice it  to
+say it clarified to  me  the kind  of  people that are  running  the show so I
+adjusted my involvement accordingly but am not the kind of person to drag them
+over the coals for it.
+
+   But fuck all that, it's not interesting anymore.
+
+   What IS interesting is a couple of phlog posts that surfaced in the wake of
+that whole mess; solderpunk's "Hey you! Host something!"[1] call to action and
+tomasino's "Space  Gopher, Revisited"[2] and  his subsequent  launch of Cosmic
+Voyage[3]. solderpunk's  post specifically calls out the psychological barrier
+in  creating something  other people  are going to use and provides  a  couple
+examples of "lite" offerings to reduce personal risk and stress and tomasino's
+post brings up  the tildeverse, noting that their purpose is largely to "offer
+one thing really well".
+
+   So that brings me to what I'm working on: tilde.tel.
+
+   A while back I had a goofy dream about a unified PUBNIX  VoIP  network and,
+to his credit dokuja said we should build it but at the time I shied away from
+it, it  just seemed like a such an impossible task. You'd need buy-in from the
+other  systems and  you'd be really putting yourself on  the  line, but he was
+absolutely right  and  I was just approaching it from the wrong direction. The
+system does  not  need to touch  the other systems, it'll  always  be its  own
+contained  system, no matter what name is on it so  there's no need for buy-in
+from anyone but interested  users. As long as you're  clear that it's  a third
+party service, not part of any specific system everything should be fine. That
+realisation,  coupled with the launch of  Cosmic Voyage and Tildeverse  Radio,
+not as  complete products to  be served to you but as  evolving ideas to learn
+from and build on as a community really shifted my attitude on the whole thing
+and the seeds of tilde.tel were planted.
+
+   I  imagine tilde.tel  as  a  small, contained VoIP  phone  network  serving
+tildeverse  members. For example, allowing ~town members to call ~team members
+and so on, with each of  the tildes  having their own "area code" of sorts, as
+well as providing some additional functionality like voicemail and  conference
+facilities and, when my  Asterisk-fu gets stronger; maybe  a voice BBS, a nice
+tidy "phonebook" and other fun toys.
+
+   Let me touch on a few questions I'm sure will probably come up:
+
+      Q. What constitutes a tilde, as far as tilde.tel is concerned?
+
+      A. Basically   any  of  the   community   PUBNIX  systems,   but  not
+         specifically  limited to  the ones that have "tilde" in their name
+         and not specifically  ones that offer  shell  access. Pretty  much
+         anyone will be considered, with the exception of...
+
+      Q. I'm an SDF user, can I have a tilde.tel number?
+
+      A. Nope! SDF already has a really excellent  VoIP  service  that  you
+         should  utilise  instead  and  a  lot  of  tilde.tel  will  mirror
+         functionality the SDF's  service already  has. Being an SDF member
+         of course doesn't  exclude  you from tilde.tel  though, if  you're
+         also a member of a tilde, there just won't be an SDF "area code" .
+         I do have a half-idea on how to bridge the two networks though, so
+         they  can call between each other. It'll be  a  little  clunky but
+         it'll be something I can DIY rather than needing admin assistance.
+
+      Q. If I'm a member of multiple tildes, can I have multiple numbers?
+
+      A. Sure, fuck it, why not.
+
+      Q. Can I call external VoIP numbers or PSTN network numbers?
+
+      A. Initially, definitely not. Being able to call other VoIP providers
+         is  likely but I'll have to work  out  how to do  it. Calling PSTN
+         numbers will probably never  happen  as those  kind of calls incur
+         charges  or require a subscription and  I'm just not interested in
+         building any kind of payment model  or shelling out for it myself.
+         Maybe if I  can find a way to  bridge Google Voice  or some  other
+         mostly-free service as a kind of  outgoing gateway I'll look at it
+         but it's a pretty low priority.
+
+      Q. Will I be able to update my details? CLI? Reset my password?
+
+      A. Hahaha no. At least not at first and  definitely  not when it's in
+         pilot.  It's gonna be  all manual initially while I  sort out some
+         kind of system to do  that for you. That said, I can't imagine the
+         userbase is going  to  reach unmanageable  levels,  so  user admin
+         shouldn't be too time consuming.
+
+   Now, all that sounds exciting, but you know me so you know this is going to
+be slow  going. I  have big dreams but am completely scatterbrained and easily
+distracted so I'm  hoping for a soft pilot around January. It'll be  extremely
+bare-bones, offering just extension to extension dialling, hopefully voicemail
+and maybe a conference.  If you'd  like to be involved as a pilot user though,
+I'd love to hear from you. Hit  me up via whatever channel is easiest for you,
+I'm not hard to find!
+
+   And there you have it, now you're  all caught up! The cat's out  of the bag
+and I'm on the line to get it done so busy times ahead.
+
+
+[1] gopher://circumlunar.space/0/~solderpunk/phlog/hey-you-host-something.txt
+[2] gopher://gopher.black/1/phlog/20181119-space-gopher-revisited
+[3] gopher://cosmic.voyage
+
+
+
+EOF

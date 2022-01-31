@@ -1,0 +1,26 @@
+                                                 ________  ________  ________
+   2018-08-04                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Alright  gophernauts,  I  put shoulder to  /        _/         /         /
+wheel and got  all  the phlog  posts updated  \_______/_\___/____/\___/____/_
+with a  new  layout and hopefully I'll never    /        \/        \/    /   \
+have  to do that again because  pushing  60+   /        _/         /_       _/
+files now and it's a marathon hahaha. Please  /-        /        _/         /
+let  me know  if  you  notice any errors  or  \________/\________/\___/____/
+other weirdness.
+
+   Aside from that, not much to report!
+
+   Got  almost all the bits I need to  move  off of the  VPS and onto a  self-
+hosted apparatus but I'll post an update on that when it's ready to go.
+
+    (\~---.     Stay Real.
+    /   (\-`-/)   / 
+   (      ' ' )
+    \ (  \_Y_/\
+     ""\ \___//
+        `w   "
+
+
+
+EOF

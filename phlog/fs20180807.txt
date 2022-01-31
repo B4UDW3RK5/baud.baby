@@ -1,0 +1,40 @@
+                                                 ________  ________  ________
+   2018-08-07                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Well  whaddayaknow,  if it ain't  dat cat  /        _/         /         /
+boy  with  another stack  of  kilobytes  for  \_______/_\___/____/\___/____/_
+y'all.  Unfortunately  for  you,  it's  just    /        \/        \/    /   \
+going to be  a  short list  of  reasons  you   /        _/         /_       _/
+should go elsewhere, haha. What is  the data  /-        /        _/         /
+equivalent of empty calories? This  FAX  SEX  \________/\________/\___/____/
+file, I guess!
+
+   Firstly, shout out jebug29 for getting a Gopher server  up and  running for
+his college  computer club[1], it's a fun  space and the quirky computer  club
+vibe kinda weirdly makes  me nostalgic  in a way haha.  Give it  a look. Every
+computer club should have a Gopher space, to be honest.
+
+   Also I'm late to the party on cmccabe's really amazing piece on the history
+and future of public access Unix systems[2] but it's well worth a read!
+
+   And  finally,  I wanted  to highlight this post[3] zlg made on the value of
+men. I had half-formed a response to it but I don't feel like  I'm  articulate
+enough lately  and I think it's better  to read it and form your own  opinion.
+Regardless,  I admire  him  for  publishing  it  since  it's  a topic that  is
+difficult  to publicly discuss with any civility on  the  surface-Internet.  I
+like to think Gopher space can handle differences of opinion without  cryptic,
+passive-aggressive jabs. Most of it can, anyway.
+
+   I do, however, absolutely agree  with  the note in his closing comment that
+"both friends seem socially stunted". Hahaha.
+
+   Lately "socially stunted" feels like it's quickly becoming the new normal.
+
+
+[1] gopher://mpcclub.info
+[2] gopher://sdf.org/0/users/cmccabe/pubax.unix.history
+[3] gopher://zlg.space/0/phlog/2018-07-29_0015.txt
+
+
+
+EOF

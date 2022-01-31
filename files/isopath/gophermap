@@ -1,0 +1,185 @@
+i                       Hexagonal Iso-Path	/	baud.baby	70
+i                         - by pocket83 -	/	baud.baby	70
+
+iThe first rule-set for this game was created by pocket83 in  March,	/	baud.baby	70
+i2017. Those  rules apply  specifically to a 37-space hexagonal game	/	baud.baby	70
+iboard which  uses eight game  pieces. They are subject  to revision	/	baud.baby	70
+iand addition.	/	baud.baby	70
+
+iAny  similarity to existing board games or their game play elements	/	baud.baby	70
+iis entirely coincidental.	/	baud.baby	70
+
+iReproduction  or  distribution  of  any  of  this material  for the	/	baud.baby	70
+ipurpose  of   presenting  it   as  an  original  work  is  entirely	/	baud.baby	70
+iprohibited,  however this material is  entirely  free  for personal	/	baud.baby	70
+iuse, and credit  given  to  pocket83 where approprate is  very much	/	baud.baby	70
+iappreciated.	/	baud.baby	70
+
+
+iRULES	/	baud.baby	70
+iGoal -	/	baud.baby	70
+i*  The object is to move one of the player's pieces to the opposing	/	baud.baby	70
+i   base.	/	baud.baby	70
+i*  Once the opponent's base has been infiltrated, the game has	/	baud.baby	70
+i   ended.	/	baud.baby	70
+i*  This is a zero-sum game.	/	baud.baby	70
+
+iGame board -	/	baud.baby	70
+i                            _-"\__/"-_	/	baud.baby	70
+i                         _-" __/16\__ "-_	/	baud.baby	70
+i                      _-" __/23\__/10\__ "-_	/	baud.baby	70
+i                      \__/29\__/17\__/ 5\__/	/	baud.baby	70
+i                    __/34\__/24\__/11\__/ 1\__	/	baud.baby	70
+i       Black base  |  \__/30\__/18\__/ 6\__/  | White base	/	baud.baby	70
+i                   |  /35\__/25\__/12\__/ 2\  |	/	baud.baby	70
+i                   |  \__/31\__/19\__/ 7\__/  |	/	baud.baby	70
+i                   |  /36\__/26\__/13\__/ 3\  |	/	baud.baby	70
+i                   |  \__/32\__/20\__/ 8\__/  |	/	baud.baby	70
+i                   |__/37\__/27\__/14\__/ 4\__|	/	baud.baby	70
+i                      \__/33\__/21\__/ 9\__/	/	baud.baby	70
+i                      /  \__/28\__/15\__/  \	/	baud.baby	70
+i                      `-_   \__/22\__/   _-'	/	baud.baby	70
+i                         `-_   \__/   _-'	/	baud.baby	70
+i                            `-_/  \_-'	/	baud.baby	70
+
+i                   h4 board with numbered spaces	/	baud.baby	70
+
+i*  The suggested playfield is a hexagonal arrangement of 37	/	baud.baby	70
+i   individual hexagonal spaces.	/	baud.baby	70
+i*  This board will be known as an h4 game board, because each of	/	baud.baby	70
+i   the six sides has four perimiter spaces.	/	baud.baby	70
+i*  An h5 (61-space) board may also be used to create additional	/	baud.baby	70
+i   game complexity.	/	baud.baby	70
+
+iBlack vs. White -	/	baud.baby	70
+i                            _-"\__/"-_	/	baud.baby	70
+i                         _-" __/  \__ "-_	/	baud.baby	70
+i                      _-" __/  \__/  \__ "-_	/	baud.baby	70
+i                      \__/  \__/  \__/  \__/	/	baud.baby	70
+i                    __/ *\__/  \__/  \__/o \__	/	baud.baby	70
+i       Black base  |  \__/  \__/  \__/  \__/  | White base	/	baud.baby	70
+i                   |  / *\__/  \__/  \__/o \  |	/	baud.baby	70
+i                   |  \__/  \__/  \__/  \__/  |	/	baud.baby	70
+i                   |  / *\__/  \__/  \__/o \  |	/	baud.baby	70
+i                   |  \__/  \__/  \__/  \__/  |	/	baud.baby	70
+i                   |__/ *\__/  \__/  \__/o \__|	/	baud.baby	70
+i                      \__/  \__/  \__/  \__/	/	baud.baby	70
+i                      /  \__/  \__/  \__/  \	/	baud.baby	70
+i                      `-_   \__/  \__/   _-'	/	baud.baby	70
+i                         `-_   \__/   _-'	/	baud.baby	70
+i                            `-_/  \_-'	/	baud.baby	70
+
+i                   Black and white on home rows	/	baud.baby	70
+
+i*  One color "digs," and the other color "climbs."	/	baud.baby	70
+i*  Diggers must stay in their tench path. They must remain on the	/	baud.baby	70
+i   game board (at the -1 tile value), and must never occupy tiles.	/	baud.baby	70
+i*  Climbers must stay on their mountain path. They must remain on a	/	baud.baby	70
+i   stack of two tiles (at the +1 tile value), and must never occupy	/	baud.baby	70
+i   the game board.	/	baud.baby	70
+i*  No game piece may occupy single tiles (spaces that are at the 0	/	baud.baby	70
+i   tile value).	/	baud.baby	70
+
+iTwo Moves -	/	baud.baby	70
+i1. One build move, where the player must relocate one of the	/	baud.baby	70
+i   hexagonal tiles from one location to another. Any tile may be	/	baud.baby	70
+i   removed, except for tiles on a player's own home base (see Home	/	baud.baby	70
+i   Row Rule).	/	baud.baby	70
+i2. One locomotive move, where the player must advance any of their	/	baud.baby	70
+i   pieces to an adjacent hexagon.	/	baud.baby	70
+
+iNote: Both the build and locomotive moves must be made on each	/	baud.baby	70
+i      turn. A player may not opt to "pass" on either move. Further,	/	baud.baby	70
+i      any move that results in an inibility to complete the second	/	baud.baby	70
+i      move is not permitted.	/	baud.baby	70
+
+iCapture -	/	baud.baby	70
+i*  An opponent's piece may be captured, and thus removed from	/	baud.baby	70
+i   gameplay, if it is surrounded on any two of its six adjacent	/	baud.baby	70
+i   sides by opposite game pieces. Before a piece can be captured,	/	baud.baby	70
+i   it is first put under "threat," from which escape may still be	/	baud.baby	70
+i   possible.	/	baud.baby	70
+
+iThreat -	/	baud.baby	70
+i                            _-"\__/"-_	/	baud.baby	70
+i                         _-" __/ o\__ "-_	/	baud.baby	70
+i                      _-" __/ *\__/  \__ "-_	/	baud.baby	70
+i                      \__/  \__/  \__/  \__/	/	baud.baby	70
+i                    __/  \__/  \__/  \__/  \__	/	baud.baby	70
+i       Black base  |  \__/  \__/  \__/  \__/  | White base	/	baud.baby	70
+i                   |  /  \__/  \__/ *\__/  \  |	/	baud.baby	70
+i                   |  \__/  \__/  \__/o \__/  |	/	baud.baby	70
+i                   |  /  \__/  \__/ *\__/  \  |	/	baud.baby	70
+i                   |  \__/  \__/  \__/  \__/  |	/	baud.baby	70
+i                   |__/  \__/  \__/  \__/  \__|	/	baud.baby	70
+i                      \__/  \__/  \__/  \__/	/	baud.baby	70
+i                      /  \__/  \__/  \__/  \	/	baud.baby	70
+i                      `-_   \__/ *\__/   _-'	/	baud.baby	70
+i                         `-_   \__/   _-'	/	baud.baby	70
+i                            `-_/  \_-'	/	baud.baby	70
+
+i                Two examples of white under threat	/	baud.baby	70
+
+i*  Once an aggressor moves into a position that threatens one of	/	baud.baby	70
+i   the opponent's pieces, the opponent under threat must	/	baud.baby	70
+i   immediately evade the threat to avoid capture. If the piece	/	baud.baby	70
+i   under threat does not or cannot evade, then the aggressor ay use	/	baud.baby	70
+i   one move from their following turn to capture the piece.	/	baud.baby	70
+i*  Passive capture: Players who willingly (or unknowingly) move	/	baud.baby	70
+i   into a position of threat may have their piece immediately	/	baud.baby	70
+i   captured.	/	baud.baby	70
+i*  Following a successful capture, the aggressor may use the	/	baud.baby	70
+i   remaining move in their turn for either building or for piece	/	baud.baby	70
+i   locomotion.	/	baud.baby	70
+
+iCross-Board Adjacency -	/	baud.baby	70
+i* Pieces occupying either space #16 or space #22 may be put in	/	baud.baby	70
+i  threat by opponents occupying the other; spaces 16 and 22 are	/	baud.baby	70
+i  adjacent spaces (see Lateral Teleports).	/	baud.baby	70
+
+iLateral Teleports -	/	baud.baby	70
+i* The breaks in the hexagonal playfield's vertices allow	/	baud.baby	70
+i  cross-board transport in both directions perpendicular to goals.	/	baud.baby	70
+i* Teleport requires that the target space is at the tile value that	/	baud.baby	70
+i  is appropriate to the player; diggers may only teleport into (-1)	/	baud.baby	70
+i  trench paths, and climbers may only teleport onto (+1) mountain	/	baud.baby	70
+i  paths.	/	baud.baby	70
+
+iHome-Row Rule -	/	baud.baby	70
+i                            _-"\__/"-_	/	baud.baby	70
+i                         _-" __/ 0\__ "-_	/	baud.baby	70
+i                      _-" __/ 0\__/ 0\__ "-_	/	baud.baby	70
+i                      \__/ 0\__/ 0\__/ 0\__/	/	baud.baby	70
+i                    __/-1\__/ 0\__/ 0\__/+1\__	/	baud.baby	70
+i       Black base  |  \__/ 0\__/ 0\__/ 0\__/  | White base	/	baud.baby	70
+i                   |  /-1\__/ 0\__/ 0\__/+1\  |	/	baud.baby	70
+i                   |  \__/ 0\__/ 0\__/ 0\__/  |	/	baud.baby	70
+i                   |  /-1\__/ 0\__/ 0\__/+1\  |	/	baud.baby	70
+i                   |  \__/ 0\__/ 0\__/ 0\__/  |	/	baud.baby	70
+i                   |__/-1\__/ 0\__/ 0\__/+1\__|	/	baud.baby	70
+i                      \__/ 0\__/ 0\__/ 0\__/	/	baud.baby	70
+i                      /  \__/ 0\__/ 0\__/  \	/	baud.baby	70
+i                      `-_   \__/ 0\__/   _-'	/	baud.baby	70
+i                         `-_   \__/   _-'	/	baud.baby	70
+i                            `-_/  \_-'	/	baud.baby	70
+
+i                   Tile values at home position	/	baud.baby	70
+
+i* Players may not use build moves on their own home-base spaces.	/	baud.baby	70
+i  Once a piece has been moved from the home row, that space becomes	/	baud.baby	70
+i  immediately vulnerable to the opponent's build moves. This rule	/	baud.baby	70
+i  attempts to prevent ad infinitum defensive building, and thus,	/	baud.baby	70
+i  stalemate.	/	baud.baby	70
+
+
+iFILES	/	baud.baby	70
+IRule sheet 1	rule_sheet_1.png
+IRule sheet 2	rule_sheet_2.png
+IRule sheet	rule_sheet_3.png
+IBoard Printout	board_printout.png
+ITiles Printout	tiles_printout.png
+
+
+iSOURCES	/	baud.baby	70
+hIso-path: game board creation (& how to play) [YouTube]	URL:https://www.youtube.com/watch?v=Wz6q03b8R6U
+hHexagonal Iso-path on BoardGameGeek	URL:https://boardgamegeek.com/boardgame/231003/hexagonal-iso-path
