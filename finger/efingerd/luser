@@ -1,0 +1,14 @@
+#!/bin/sh
+
+#. /etc/efingerd/log
+
+if [ "$3" = "cat" ]; then
+  cat /home/cat/.finger
+  echo "Project:"
+  cat /home/cat/.project | sed 's/^/   /'
+  echo "Plan:"
+  cat /home/cat/.plan | sed 's/^/   /'
+  exit 0
+fi
+
+echo "Nobody is home."

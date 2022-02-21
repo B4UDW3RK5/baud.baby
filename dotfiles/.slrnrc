@@ -1,0 +1,3 @@
+set editor_command "nano +%d %s"
+set signature ".srln-signature"
+set hostname "baud.baby"
