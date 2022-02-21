@@ -9,6 +9,6 @@
                  ╱╱        ╱         ╱         ╱_       ╱
                  ╲╲_______╱╲___/____╱╲________╱  ╲╲____╱
 
-     Personal Gopher space of your sister's favorite hacker!
+             Home of your sister's favorite hacker!
 gopher://baud.baby   finger cat@baud.baby   ph. +1 (929) 601-BAUD
 ```
