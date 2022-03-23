@@ -1,0 +1,65 @@
+                                                 ________  ________  ________
+   2018-06-28                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   So here we are, sports fans, I've finally  /        _/         /         /
+moved out of smj's  basement and into my own  \_______/_\___/____/\___/____/_
+Gopher space.  Right up  front I  want to be    /        \/        \/    /   \
+clear that the move isn't out of any problem   /        _/         /_       _/
+or  dissatisfaction  with  the  SDF and  its  /-        /        _/         /
+Gopher space, it's an exciting community and  \________/\________/\___/____/
+one completely unlike  any other you'll find
+online  and  I'm proud to be an active  member of  it. If you aren't already a
+member the fuck are you sleepin' on it for?
+
+   In  line  with   Tomasino's  move   to  gopher.black  and  Solderpunk's  to
+circumlunar.space, this move is more about decentralising Gopher. A large part
+of the active phlogosphere makes  their home on  SDF and without a doubt  it's
+still  the best place to get seen if you're  new  to Gopher.  The  downside of
+that, though is  that when the SDF is down for maintenance, NetBSD testing  or
+because  some dildo files a report to  whoever  and claims it's "the dark web"
+that same large part of the active phlogosphere becomes unreachable.
+
+   I'm just  doing my small part  to mitigate that a bit by  separating myself
+from that single point of failure and in the process grow my  skills a little,
+learning a  little server setup and maintenance skills and if  everything goes
+to  plan a  little  electronics skills  too. Short term I'm just hosting  on a
+cheap VPS but once  the dust settles  on some  stuff I've got going on IRL I'm
+going to try and move it off onto  a Raspberry Pi or similar. I have some  fun
+plans for that but we'll see how much works out haha.
+
+   What I won't be doing  though,  is mirroring my space.  I'll leave  all the
+files I already have on SDF where they are, so any references to them on other
+peoples' phlog posts or whatever will  still work but I won't be mirroring any
+new content back to my SDF space, it'll only be added to baud.baby.
+
+   Since I'm moving off of the SDF, if you'll indulge me I want to revisit one
+of the reasons I cited for even using Gopher and starting a phlog.
+
+   Back in June 2017 I wrote:
+
+      "Utilising the SDF; I've  been a  member for a while but mostly all I
+      did was log in  every  now and then, type  "ls" and  log  off  again.
+      There's a  lot  to the SDF and there's a lot  they do that just isn't
+      done  anywhere   else.  It  really  is  a  treasure  that  should  be
+      appreciated and utilised  more. I don't know shit about BSD or Gopher
+      or any of that (spent over an hour last night just trying to format a
+      fancy heading and failed), but trying to do as much as I can natively
+      rather than doing  it all where I'm more comfortable and transferring
+      it across gives me a chance to learn to do more in BSD and on SDF."
+
+   While  I still  have  a long way to go, I'm  vastly more comfortable in BSD
+than I was back  when I wrote this and know  Gopher stuff really well and, for
+the most important part, I feel like I've really followed through on my desire
+to utilise and contribute to the SDF more and participate in the community.
+
+   I've gone from "just having a shell in case I need  it for whatever reason"
+to  being logged  in whenever  I can, updating my  Gopher  (reasonably) often,
+chatting on IRC, com  and the SDF's  Mastodon instance,  messing with the VoIP
+network and tuning in to aNONradio and only recently but hopefully  more often
+participated in an Open VoIP call.
+
+   It feels good.
+
+
+
+EOF

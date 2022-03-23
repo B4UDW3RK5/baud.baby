@@ -1,0 +1,68 @@
+                                                 ________  ________  ________
+   2018-03-12                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Surprisingly, I  am  not  dead, I do have  /        _/         /         /
+about a half dozen post started that I  just  \_______/_\___/____/\___/____/_
+can't bring  myself to  make the  effort  to    /        \/        \/    /   \
+finish,  though.  I  don't know  what that's   /        _/         /_       _/
+about.                                        /-        /        _/         /
+                                              \________/\________/\___/____/
+   So   some   changes   were   made  around
+gopher.club  that  caused  a  little  stir  among the  SDF  gopher  users  and
+rightfully  so,  some users' gophermaps  wouldn't work at  all when  trying to
+access them via  gopher.club after the change. My space  was  a  bit messed up
+too, though thankfully for the most part kept working, just  a few = whatevers
+broke - I now know this is a gophernicus specific itemtype.
+
+   A few prominent  SDF  gopher/gopher.club  members  have now  moved  or  are
+looking to move to  their own spaces which is bittersweet, I love the SDF  but
+also like the idea of a wider gopher web... a world wide web, as it were.
+
+   One thing that I have been turning over in my head for the last week or so,
+since resolving my VoIP drama and that resurfaced yesterday is  the discussion
+around  support from SDF, using ANNOUNCE and engaging the  community in change
+which, while I do agree is not necessarily something I want from SDF.
+
+   Now hear me out, haha.
+
+   The story with my VoIP, which I'm sure a lot  of people are sick of hearing
+about, is that it looks like when I activated it I was assigned an extension I
+shouldn't have been and couldn't  receive calls. Now I don't  know shit  about
+shit but did  my best to try and  troubleshoot,  thought it  was  my voicemail
+because I could receive calls from maint, assumed it was something I was doing
+wrong etc but got nowhere. Asked for help a few times and got silence. It  was
+frustrating  and  it  wasn't  until  nydel pointed  out that  I shouldn't have
+received the extension at all  that I  conceded it and deactivated/reactivated
+for a new extension.
+
+   My initial reaction was  fuck this is stupid, if Admin or  someone who knew
+this shit just  said straight  up that it's fucked and  I  have  to get  a new
+extension then that would be  cool but instead I sat on a busted extension for
+like six months, trying to fix an issue I couldn't actually fix.
+
+   I  cooled down pretty quick though, I  figured I don't  pay much for access
+and it is a weird hobby site so if  I  wanted a proper service I should  use a
+proper  provider,  etc.  Then this  thing with  gopher  happened  and the same
+frustrations bubbled up but this time I found myself wondering whether support
+and transparency was even anything I actually needed from SDF.
+
+   I know SDF tries to shrug off the notion that its a "retro" experience, but
+with their BBS roots and 30+ years active there will always be that element to
+their appeal and,  when  I think about BBSs transparency and support  are  not
+concepts that come to mind.
+
+   Back in those days the boards I visited were run by kids barely older  than
+me and everything on the whole board subject to their  whim. If they wanted to
+change something  they rarely  broadcast  the  change and asked for  feedback,
+they'd  just  mess with it and if the  board had to come down for this or that
+reason (or because their mom  just shut the machine off or pulled the line out
+hahaha) then it came down.
+
+   There's no denying the SDF is larger than any bedroom BBS  could ever  have
+dreamt  to be but  in my opinion it  still  occupies the  same paradigm so, at
+least for me, the tolerance for that kind  of thing carries over pretty easily
+and I'm not sure I'd want it any other way.
+
+
+
+EOF

@@ -1,0 +1,35 @@
+                                                 ________  ________  ________
+   2018-04-17                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Just  a  small note to  let y'all know  I  /        _/         /         /
+posted a couple of free board games I really  \_______/_\___/____/\___/____/_
+like to  the  files  section  in  my  space.    /        \/        \/    /   \
+Neither of the games are by  me but I hope I   /        _/         /_       _/
+contributed  something  at  least  a  little  /-        /        _/         /
+worthwhile  to them  by ASCIIfying  the Iso-  \________/\________/\___/____/
+Path  rules,   putting  together   the   PDF
+rulebook for Gnostica and sharing them both here.
+
+   Iso-Path[1]  is  a  two  player board  game where the goal is  to reach the
+opposing player's base at the opposite end of the board. White player can only
+"climb" along stacks of hexagonal tiles and black player can  only "dig" along
+the gameboard, the rules are dead simple but the game is really addictive.
+
+   Gnostica[2] is an abstract war  game where the territories are reporesented
+by cards  from  a standard  tarot  deck,  with  each  card  or  suit providing
+different  "powers", and the  armies reporesented  by pyramid  pieces  (Looney
+Pyramids). This game is really great, it's a bit rules-heavy but not difficult
+to learn and really enjoyable and the  use of tarot  to represent a "world" is
+really interesting. The downside of this one is it can be a bit expensive; for
+the price  of  a  tarot deck  and  a few Looney stashes  a  "free" game starts
+costing not much less than your average boxed game.
+
+   I hope you enjoy!
+
+
+[1] gopher://baud.baby/1/files/isopath
+[2] gopher://baud.baby/1/files/gnostica
+
+
+
+EOF

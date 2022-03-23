@@ -1,0 +1,77 @@
+                                                 ________  ________  ________
+   2018-03-26                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Debbie  Downer  back  at  it  again  with  /        _/         /         /
+another buhu for the readers at home.         \_______/_\___/____/\___/____/_
+                                                /        \/        \/    /   \
+   Nah just kidding I'm going  to talk about   /        _/         /_       _/
+phone shit.                                   /-        /        _/         /
+                                              \________/\________/\___/____/
+   (Audience:  Fucking hell is he going talk
+about his busted SDF VoIP again?)
+
+   No, smartass, my SDF VoIP works now.
+
+   Recently  I  have been fiddling  with and  have  fallen  way  in  love with
+Asterisk.
+
+   When my SDF VoIP was busted  (Audience: Fuck!)  and  I initially thought it
+was just the voicemail I figured ok, in  the  spirit of the SDF if it's busted
+and  I can just roll my own I should  just do that so I started tinkering with
+Asterix with some success,  it was actually really  easy to get up and running
+and the basic  extensions/dialplan config is  straight  forward  enough that I
+could get my head around a simple answering machine.
+
+   In  the  end I got  sidetracked and made a  goofy  thing that  plays back a
+random  90s Australian phone sex  ad (should still be running if  you  want to
+punch in ext. 1999 or 1999@sip.sdf.org  or however  direct calls work) and got
+busy with work and  life stuff before I could circle  back and finish adding a
+voicemail box.
+
+   The  novelty of  the  phone sex thing  wore off  pretty quick  though, it's
+pretty  much a one-shot  gag, so I'm working  on a  couple of new  things; one
+being an automated  dial-a-reading  tarot line, an idea pretty much  along the
+same lines  but a bit more interesting and gives me an excuse to try to set up
+some   IVR  options  (description   of   how  the   reading   works/start  the
+reading/replay  reading,  etc)  and to figure out  how to pipe  in  background
+music, either by automatically  conferencing in two extensions or by using the
+chanspy whisper or whatever.
+
+   Once I've got that figured out  there's  something else I want to try along
+the same lines but less randomised and more interactive. We'll see.
+
+   Coincidentally  I  recently found a  Telstra  touchfone  TF200 in  a thrift
+store, I've wanted a Touchfone for ages, long before I  was active on the SDF,
+just to have one around  because  they're really nostalgic for  me. I'd  spend
+hours on one as a kid, talking AD&D and anime nonsense with friends.
+
+   Shortly after that I found a TF400  in really good  condition and was like,
+"well I always liked the TF400  better when I was a kid" so I got that one too
+because it was a really good price but then, again, shortly after that I found
+another TF400 for not as good a price but  complete with manual and speed dial
+"memory cards" and all so I  picked that up too hahaha. I'll  probably on-sell
+the first TF400 or donate it, it didn't cost much and is missing the cover for
+the speed dial.
+
+   I also have an eye out for the clever "hands free" bolt-on speakerphone for
+the old Touchfone series.  I saw one pop up on eBay but the bidding  got a bit
+too steep for me, which is fair enough since as far as I know they were pretty
+rare. I only ever recall seeing  one in real life, in  a friends dad's  shed I
+think it was.
+
+   So anyway that all really snowballed and  is a thing now I guess,  at least
+for  the time  being. I picked up a little  Cisco ATA so I  can use the phones
+with a  real  VoIP provider or the SDF's  VoIP. It's pretty  nifty,  I'd never
+messed with VoIP much at all but setting all this up was a lot of fun and I'll
+admit, there was a  little rush of nostalgia for me when I  found the settings
+to replicate the Australian dial tone. It's way nicer than the default US dial
+tone (sorry guys haha).
+
+   I've still got to  get my head around the rest of the settings on the thing
+and keep plugging away at Asterisk  config ideas and  problem-solving but it's
+definitely  keeping me really engaged in the  short bursts I can actually work
+on any of it.
+
+
+
+EOF
