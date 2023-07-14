@@ -65,7 +65,7 @@ with a number  of sides that cannot be rendered (eg. 1, 3)  gets rounded up to
 the  nearest  solid;  1 becomes a card,  3 becomes a tetrahedron,  each with a
 blank space added to fill in the gap.
 
-   You client  (the beVR browser)  consumes  the markup file and renders  a 3D
+   Your client  (the beVR browser) consumes  the markup file and renders  a 3D
 space populated  with these solids,  you pick them up,  turn them over in your
 hand to browse the content, poke the surface of the solid to open the content.
 Nothing much more complicated than that. Lofi VR.
