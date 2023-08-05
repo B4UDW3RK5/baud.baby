@@ -1,7 +1,7 @@
 #!/bin/zsh
-sed 's/^/i/; s/$/\  \/\     baud.baby\      70/' layout/header
-echo "\n\n" | sed 's/^/i/; s/$/\  \/\     baud.baby\      70/'
-echo "$(rorgone 3)  WH4T U C4M3 H3R3 F0R\n" | sed 's/^/i/; s/$/\  \/\     baud.baby\      70/'
+sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/' layout/header
+echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "$(rorgone 3)  WH4T U C4M3 H3R3 F0R\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat mainContent
 #echo "\n\n\n$(rorgone 3)  M3T4D4T4\n" | sed 's/^/i/; s/$/\  \/\     baud.baby\      70/'
 #cat mainContent
@@ -15,4 +15,4 @@ cat mainContent
 #cat ppl
 #echo "$(rorgone 3)  PHL0G05PH3R3\n" | sed 's/^/i/; s/$/\  \/\     baud.baby\      70/'
 #cat phlogs
-sed 's/^/i/; s/$/\  \/\     baud.baby\      70/' layout/footer
+sed 's/^/[i|/' layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab | sed 's/$/\|\/\|baud.baby\|70]/'
