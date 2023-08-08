@@ -1,0 +1,78 @@
+                                                 ________  ________  ________   
+   2022-01-17                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   Be  warned,  dear reader,  that this is a  /        _/         /         / 
+half baked idea I  just want to get out into  \_______/_\___/____/\___/____/_
+the ether  so I don't forget about it.  I've    /        \/        \/    /   \
+been turning  it over in my head  off and on   /        _/         /_       _/
+for a while  but recently  epoch  shared his  /-        /        _/         /
+monolithic  todo list[1]  and it had an item  \________/\________/\___/____/
+on it  that  said  simply  "gemini vr"  so I
+thought now would be a good time to get some thoughts down on paper.
+
+   I'm heavily invested in VR,  I'll admit it.  At first  it seemed  hokey and
+then it was fun but still  mostly a novelty,  now it's really gotten its hooks
+into me.  I spend a  lot of time in VR just to be in VR,  not  really there to
+play a game or to socialize, just to be in the space. I love it in there and I
+find real comfort in it.
+
+   Naturally,  and if you're the  type  to be  reading  this I'm  sure  you'll
+immediately  understand  the feeling,  my love for the space makes  me want to
+produce  content for it,  just like with Gopher and Gemini  and the tildeverse
+and all those good places but I'm very, very green when it comes to 3D. I find
+working in 3D really alien and between that and just not having enough time to
+dedicate to sitting still and studying, the whole thing seemed so overwhelming
+that I'd either never start anything or quickly get frustrated and lose
+interest when I did.
+
+   It got me  wondering,  where is that lofi sweet  spot  in VR?  What's  VR's
+Gopher and Gemini analog?  And I couldn't find it, so maybe I have to make it?
+I don't know. It seems like a huge undertaking.  But every journey starts with
+a single  step and so I sow these seeds of an idea  in the  loamy  underground
+Internet in the hopes I can eventually cultivate a habitable garden.
+
+   Broadly, I imagine bVR as a protocol and markup language for VR. To VR what
+Gemini is to the Web. Imagine this:
+
+   Gemini's gemtext describes  a way to format a page of text and hyperlink to
+other pages,  think of a Gemini  page as a two  dimensional object.  I want to
+extrapolate that into three dimensional space and it's easy right? The surface
+of a three dimensional  object is made up of two dimensional  faces so we make
+up the surface of our three dimensional VR space with two dimensional Gem/Goph
+items.
+
+   I envision it something  like this,  for ease of reading I'll represent the
+markup  as a kind of JSON but really  this is up to discussion  and ideally it
+would be something simpler, it's just an existing syntax I can leverage now to
+better communicate the idea
+
+
+     { defines a solid
+          { defines a surface
+               "contains an item description",
+               is the item
+          }
+     }
+
+
+   That's really it, everything  else is handled by the client which can be as
+fancy or as simple  as you like,  the markup describes  the solids  you see in
+your space  and what data  (text, an image, a video,  an audio file, a link to
+another directory) you receive when you press on the surface of the solid. the
+number of items in the solid defines the shape, a solid with two items appears
+as a card,  a solid with four items appears  as a tetrahedron, etc.  Any solid
+with a number  of sides that cannot be rendered (eg. 1, 3)  gets rounded up to
+the  nearest  solid;  1 becomes a card,  3 becomes a tetrahedron,  each with a
+blank space added to fill in the gap.
+
+   Your client  (the beVR browser) consumes  the markup file and renders  a 3D
+space populated  with these solids,  you pick them up,  turn them over in your
+hand to browse the content, poke the surface of the solid to open the content.
+Nothing much more complicated than that. Lofi VR.
+
+
+[1] https://thebackupbox.net/todo/epoch.txt
+
+
+
+EOF

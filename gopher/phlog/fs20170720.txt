@@ -1,0 +1,44 @@
+                                                 ________  ________  ________
+   2017-07-20                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   There's  been  a  bit of  chatter  around  /        _/         /         /
+phlog feedback and comments so I thought I'd  \_______/_\___/____/\___/____/_
+throw in my $0.02, for what it's worth.         /        \/        \/    /   \
+                                               /        _/         /_       _/
+   Personally,  my ideal feedback  mechanism  /-        /        _/         /
+would meet the following criteria:            \________/\________/\___/____/
+
+    > It  should   be   open  and  publically   accessible   to  facilitate
+      conversation, if you have anything private to say you can do so via a
+      direct  email or whatever. Likewise it shouldn't be server  specific,
+      you  should be able to comment or respond  to what I've written on my
+      phlog whether you host with SDF or not, and likewise I should be able
+      to give feedback on yours.
+
+    > The caveat to the above is that it should be reasonably restricted to
+      relevant users. I'm not saying there should be a secret  handshake to
+      be  able  to  participate  but  you  should at  least have  a  Gopher
+      presence,  whether you use  it or  not.  This  will  probably  happen
+      organically since Gopher is niche and most info on the phlogs will be
+      spread via the phlogs.
+
+    > It shouldn't  be  real  time, like  an  IRC  channel or  COM room,  a
+      participant  shouldn't  miss some sort  of  response  to  their phlog
+      because they weren't lurking in the chatroom 24/7.
+
+    > It shouldn't "crack the egg" of the Gopher experience and needs to be
+      in line with how Gopher is used. It'd be jarring and exclusionary  to
+      expect someone to switch  from reading a Gopher phlog in a term to  a
+      flashy HTML5  website  just to  participate  in a  discussion on  its
+      content.
+
+    > It should be  self-moderated. No higher  power dictating what can and
+      can't be said or policing  language, etc.  Gopher ain't 4chan and I'd
+      like to think we're all pretty civil.
+
+   Ultimately I  agree  with  slugmax's  suggestion  of  a  phlogging-specific
+newsgroup, it ticks most of my boxes.
+
+
+
+EOF

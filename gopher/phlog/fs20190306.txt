@@ -1,0 +1,43 @@
+                                                 ________  ________  ________
+   2019-03-06                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   This   past  Wednesday  I  got   to   see  /        _/         /         /
+Deafheaven  live  again,  my third  time.  I  \_______/_\___/____/\___/____/_
+kinda wasn't feeling it at first, I was in a    /        \/        \/    /   \
+mood (when am I not?) and their new album is   /        _/         /_       _/
+not really sitting  well with me, I dunno. I  /-        /        _/         /
+can't really  say I don't like it,  I'd just  \________/\________/\___/____/
+rather listen to anything else they've  done
+I guess. It took me a while to spin up but then they announced a new song that
+would premiere on streaming services later that night, and that this  show was
+the  first time they were playing it live and I got so hype.  Dani very kindly
+held the LP I bought and  I  threw myself into the mess in front of the stage,
+it was extremely cathartic. Ended up being not too bad a show, some new stuff,
+some "hits" - I  was  telling  Danielle, every time I see them live  it really
+cements Sunbather as my favorite album, it's so perfect.
+
+   Aside from  that  the tilde.tel  pilot is now live  and pretty lively, some
+teething issues and a lot of learning but things are going  much better than I
+ever  could  have  dreamt. Got  around  18  users,  excluding  me,  a  working
+conference and voicemail, Tildeverse Radio  piping to  music on  hold, all the
+good shit. Cobbled together a phone book and FAQ  on  the website  and  gopher
+space and  the #tildetel channel  on tilde.chat is pretty lively  too, a  good
+community bolting on some pretty interesting stuff.
+
+   Ironing out kinks and squashing bugs aside I'm kinda at  a loss where to go
+from  here,  there's a  few things  I want to try  to  build  but they're  big
+projects and  I dunno  if I  have  the orgone  for something like  that at the
+moment, there's a bunch of other big unfinished things that I should  probably
+be doing instead.
+
+   One thing that was  suggested by  one of the ~tel  users is  to open up the
+.confs,  via git or  whatever, to users to edit.  I probably couldn't  do that
+with  everything because there's some sensitive info in there and even opening
+up extensions.conf means  I  can't easily  sneak  in  anything  fun  but I was
+thinking of maybe allocating a  block of  extensions that users  can just hack
+on,  and putting that  file on  git  somewhere to just  let  anyone contribute
+whatever silly thing they'd like. Thoughts? Ideas?
+
+
+
+EOF
