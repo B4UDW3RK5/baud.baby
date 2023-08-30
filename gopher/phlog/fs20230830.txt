@@ -1,0 +1,25 @@
+                                                 ________  ________  ________   
+   2023-08-30                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   welp B4UDW3RK5 Jitsi Office Hours died on  /        _/         /         / 
+the   vine;   Jitsi    is   now    requiring  \_______/_\___/____/\___/____/_
+authentication  to  create  rooms  in  Jitsi    /        \/        \/    /   \
+Meet[1]  which means  I can't create  a room   /        _/         /_       _/
+through  the Electron  client, I have to log  /-        /        _/         /
+in to an account  on a browser,  create  the  \________/\________/\___/____/
+room as a moderator,  join  the room through
+the client and quit the room from the browser.
+
+   I stuck it out for a minute  hoping it was just a bug but that announcement
+means it's permanent.
+
+   sucked the fun out of it like a fart in a phone booth.
+
+   pour one out for the dream, homies.
+
+
+[1] https://jitsi.org/blog/authentication-on-meet-jit-si/
+
+
+
+EOF
