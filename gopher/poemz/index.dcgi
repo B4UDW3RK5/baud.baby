@@ -1,6 +1,21 @@
 #!/usr/local/bin/zsh
 sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'/layout/header
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "[i|      ▄  .  ▄   ▄   ▄▀   ▄▀▀▄  ▄▀▀▄   █▀▀▄|/|baud.baby|70]"
+echo "[i|    ▄███▄ ▄███▄▄▀ ▪▄▀   █  ▄▀ █  ▄▀  █  ▄▀|/|baud.baby|70]"
+echo "[i|   █ •▀███  ▀█▀    ▀▀▀   ▀▀    ▀▀    ▀▀▀|/|baud.baby|70]"
+echo "[i|    ▀▄  ██ ▄███▄   █▀▄   ▄▀▄   ▄▀  █▄  █|/|baud.baby|70]"
+echo "[i|      ▄▀▀ █ ▀███  █▄▄▀  ▄▀▀█  ▄▀  █ █ █|/|baud.baby|70]"
+echo "[i|   ▄██▄▄▄·   ██▀  ▀  ▀  ▀  ▀  ▀   ▀  ▀|/|baud.baby|70]"
+echo "[i|   ▀  ▛▀▀▀███▀█ ▪ ▄▀▄   █▀▄   █▀▄   ▄▀  ▄▀▀  █▀▄|/|baud.baby|70]"
+echo "[i|      ▎   ▐▛▐ ▋  ▄▀▀█  █▄▄▀  █▄▄▀  ▄▀  ▄▀▀  █▄▄▀|/|baud.baby|70]"
+echo "[i|      ▏   ▐   ▎  ▀  ▀  ▀  ▀  ▀  ▀  ▀   ▀▀▀  ▀  ▀|/|baud.baby|70]"
+echo "[i|          ▐   ▏|/|baud.baby|70]"
+echo "[i|          ▐▎  ▏                      .|/|baud.baby|70]"
+echo "[i|          ▐   ▎     If I ever hit 10 I'll publish a zine of|/|baud.baby|70]"
+echo "[i|          ▕           bad ANSI art and even worse poety.|/|baud.baby|70]"
+echo "[i|     ▄    ▄|/|baud.baby|70]"
+echo "[i|                           ▪|/|baud.baby|70]"
 echo "[i|› T1TL3|/|baud.baby|70]"
 echo "[0|cjs|cjs.txt|baud.baby|70]"
 echo "[0|exitWound|exitWound.txt|baud.baby|70]"
