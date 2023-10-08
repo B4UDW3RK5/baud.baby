@@ -31,9 +31,10 @@ echo "[i|› TR1V14|/|baud.baby|70]"
 echo "[i|     • Blood Brain Barrier was the original title of|/|baud.baby|70]"
 echo "[i|       FAX SEX, it lasted probably not even half a day|/|baud.baby|70]"
 echo "[i|       before my layout changed and the name of the|/|baud.baby|70]"
-echo "[i|       and the name of the phlog with it.|/|baud.baby|70]"
+echo "[i|       and the name of the phlog with it. it had an|/|baud.baby|70]"
+echo "[i|       embarassing figlet heading, too. lame.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
-echo "[i|     • ANSI art by brool, ESQ.|/|baud.baby|70]"
+echo "[i|     • this header is original ANSI art by brool, ESQ.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 (cat ../layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
