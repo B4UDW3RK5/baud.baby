@@ -1,7 +1,8 @@
 #!/usr/local/bin/zsh
 sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/' ../layout/header
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "[i|                     presents|/|baud.baby|70]"
+echo "[i||/|baud.baby|70]"
+echo "[i|                            presents|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "[i|      ▄  .  ▄   ▄   ▄▀   ▄▀▀▄  ▄▀▀▄   █▀▀▄|/|baud.baby|70]"
 echo "[i|    ▄███▄ ▄███▄▄▀ ▪▄▀   █  ▄▀ █  ▄▀  █  ▄▀|/|baud.baby|70]"
