@@ -1,5 +1,5 @@
 #!/usr/local/bin/zsh
-sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'../layout/header
+sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'/layout/header
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 [i|      ▄  .  ▄   ▄   ▄▀   ▄▀▀▄  ▄▀▀▄   █▀▀▄|/|baud.baby|70]
 [i|    ▄███▄ ▄███▄▄▀ ▪▄▀   █  ▄▀ █  ▄▀  █  ▄▀|/|baud.baby|70]
@@ -24,4 +24,4 @@ echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 [0|quake|quake.txt|baud.baby|70]
 [0|softSpell|softSpell.txt|baud.baby|70]
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-(cat ../layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+(cat /layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
