@@ -4,11 +4,11 @@ echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "$(/home/cat/.cargo/bin/rorgone 3)  WH4T U C4M3 H3R3 F0R\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat mainContent
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "$(/home/cat/.cargo/bin/rorgone 3)  CYB3R5P1R1TU4L15M\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-cat religion
-echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "$(/home/cat/.cargo/bin/rorgone 3)  B4UDW3RK5\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat B4UDW3RK5
+echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "$(/home/cat/.cargo/bin/rorgone 3)  CYB3R5P1R1TU4L15M\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+cat religion
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "$(/home/cat/.cargo/bin/rorgone 3)  N3W CYB3R14 C01N L4UNDRY\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat NCCL
