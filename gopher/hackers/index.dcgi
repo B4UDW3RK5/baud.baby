@@ -80,6 +80,7 @@ echo "[i|      about to this day.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "[i|      As always, thank you to you know who and you know who 2. <3|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
+echo "[i||/|baud.baby|70]"
 echo "$(/home/cat/.cargo/bin/rorgone 3)  F1L3Z\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "[0|the-manual.txt|/hackers/the-manual.txt|baud.baby|70]"
 echo "[9|cards-a4-pages.zip|/hackers/cards-a4-pages.zip|baud.baby|70]"
