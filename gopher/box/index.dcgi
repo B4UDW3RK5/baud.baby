@@ -1,8 +1,12 @@
 #!/usr/local/bin/zsh
 sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/' ../layout/header
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "$(/home/cat/.cargo/bin/rorgone 3)  NF0\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "[i||/|baud.baby|70]"
-echo "[i|coming soon!|/|baud.baby|70]"
+echo "[i|   B0X is a 14U PA DJ Rack/Road Case that's going to serve as the|/|baud.baby|70]"
+echo "[i|rack for my home office gear. eventually this space will document|/|baud.baby|70]"
+echo "[i|the build and act as a kind of register of what's mounted in|/|baud.baby|70]"
+echo "[i|the rack.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 (cat ../layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
