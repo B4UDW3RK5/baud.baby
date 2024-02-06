@@ -1,0 +1,47 @@
+                                                 ________  ________  ________   
+   2018-04-09                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   Back in the late '90s or early '00s there  /        _/         /         / 
+was this program for Windows that helped you  \_______/_\___/____/\___/____/_
+make  HTML  image  maps.  In  those  days it    /        \/        \/    /   \
+seemed like software was ridiculously quirky   /        _/         /_       _/
+and  this was no  different,  it was  pirate  /-        /        _/         /
+themed (because  map, get it?)  and  in  the  \________/\________/\___/____/
+middle of the  screen was an animated parrot
+that would squawk or "Polly wants a cracker" when you clicked on it. It served
+no purpose that I recall other than to be animated and noisy.
+
+   Every now and then when you clicked it, instead of screeching or chattering
+it'd go "Yo  yo yo  wassup" or something like  that.  That's  really the  only
+reason I remember it.
+
+   What does this have to do anything?  Nothing  really, I  just  started this
+file "Yo yo yo wassup" and it reminded me of that stupid parrot.
+
+   Did a little Gopher  housekeeping and cut out the big  list of phlogosphere
+links from my main map, replacing it with a Moku Pona instance - I tried to be
+creative with it and add all the phlogs I like, even ones that hadn't  updated
+in a long while then remove them from the  list  so they won't appear until an
+actual update comes through, rather than sitting un-updated at the tail of the
+list.  Seems  to  be  working  so  far!  I  feel  bad  culling  the links  and
+descriptions to other Gopher spaces  though  so I might squirrel it all into a
+links page. I dunno,  just  trying  to make my main map as concise as possible
+but also don't want to be a dead-end.
+
+   In case you missed it, you can also see a copy of my goofy-ass April Fool's
+thing in  files/ - I found it hilarious but your mileage  may vary. The number
+is real.
+
+   That's all I got for ya,  really. Life is a drainer and work makes me  want
+to drink myself to death but I'm  off to visit family in a week or so and that
+might be fun to write about but who knows! I might be too busy! Unlikely, I'll
+be bored within a week, so I'm sure I'll be  around to talk shit and then when
+I'm back I'll try kicking off a ph4t pr0j3ct or two.
+
+   Which I will never finish.
+
+   *crickets*
+
+
+
+EOF

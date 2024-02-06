@@ -1,0 +1,94 @@
+                                                 ________  ________  ________   
+   2018-09-09                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   This is kind of half-formed but I  wanted  /        _/         /         / 
+to get it out in  the open so I don't forget  \_______/_\___/____/\___/____/_
+about it. Where the cyberpunk genre could be    /        \/        \/    /   \
+described  as   "the  future  of   the  80s,   /        _/         /_       _/
+imagined", baudpunk would be "the present of  /-        /        _/         /
+the  90s,   exaggerated".   Of  course,  the  \________/\________/\___/____/
+present of  the 90s is technically  the past
+but let's not overcomplicate things.
+
+   Baudpunk is  fiction  based in  retro-reality  cyberculture;  CRTs, sneaker
+nets, payphones and text zines. Baudpunk is a local crew with a global  reach,
+baudpunk  is  the computer  shit  your  parent's  don't  know  about  and  the
+government is afraid of.
+
+   Some baudpunk media to get you started:
+
+
+      Viewing
+
+      Hackers  (1995) - This is, in my opinion, the quintessential baudpunk
+   film. Colorful and quirky joining forces to overcome an equally colorful
+   and quirky  hacker villain. Computer/hacker culture  in this film exists
+   in a punk-rock space with bumbling adults  completely oblivious  to  the
+   world beneath the surface. Hacking, phreaking, pranking, cool locations,
+   rad tech and a bumping soundtrack. This is baudpunk!
+
+      Takedown (2000) - What little attention  I remember this film getting
+   was  mostly negative due to the  factual inaccuracies in it and the book
+   it was based on but,  you know, anything  that's "based on a true story"
+   should be taken  with  a grain of salt. Of course if it's written by one
+   of the parties involved it's going to be slanted in their favor. If  you
+   dump  out all the real  life drama and just approach  this as a  work of
+   fiction it's a pretty good baudpunk film about feud between two hackers.
+   A bit  more grounded in  reality than Hackers but, here's a fun factoid:
+   in some regions this movie was marketed as "Hackers 2".
+
+      The Scene  (2004) - Maybe this should  go  under "reading"? The Scene
+   follows the members of a piracy group and is told through webcam footage
+   and screen recordings of IRC channels and instant  messenger sessions. I
+   remember it  being really engrossing and quite  an interesting idea  but
+   I'm not sure how it'd hold up today, I might revisit it and report back.
+
+      BBS:  The Documentary (2005) - This was an eight episode series which
+   is  definitely worth watching through if you have any interest in BBS or
+   the  pre/early  internet,  but  the  two episodes  that  cover  baudpunk
+   concepts are episode 2: SysOps and Users, which covers the BBS community
+   and episode 6:  HPAC,  which  covers the  BBS  "underground" of hacking,
+   phreaking,  anarchy  and  cracking. There are  probably  a  few  similar
+   documentaries out there but I've never seen one that really dug into the
+   people  and  community  behind  the  BBS  scene  as  well  as  BBS:  The
+   Documentary does.
+
+
+      Reading
+
+      Commodork:  Sordid Tales  from a BBS Junkie (Rob  O'Hara, 2006) -  An
+   autobiographical  account  of  Rob  O'Hara's  life   growing  up  as   a
+   BBS/computer nerd. It's  a  personal  account  but  deeply relatable  to
+   anyone who was around in those days and likely fascinating to anyone who
+   wasn't but is curious about life online before the internet. Since it is
+   a (perhaps exaggerated)  account of true events, along the same lines as
+   BBS:  The Documentary, it's technically not baudpunk but it is a  really
+   good study on what  life was  like in those BBS/early  Internet days and
+   the  evolving  cyberculture  of  the  time  provides   a  really  strong
+   oundation on which baudpunk fiction can be built.
+
+      Wizzywig (Ed Piskor,  2012)  -  Ed  Piskor's  baudpunk graphic  novel
+   combines  parts of the  lives  of iconic  phreaks and  hackers  into the
+   fictional tale of Kevin "Boingthump" Phenicle, following his life from a
+   crafty inner-city kid to  a wanted techno-fugitive and beyond.  About as
+   baudpunk a comic as  I've found and, although it can seem a little silly
+   when  you recognise the  anecdotes of real people being  re-written into
+   the story, it's still a pretty good read.
+
+      The Hacker Crackdown (Bruce Sterling, 1992) - Y'all fuckin' know this
+   one. Bruce Sterling's  account of the  early '90s  "Operation  Sundevil"
+   raids on hacker groups and anyone tangentially related to them.
+
+
+      Listening
+
+      Introducing Neals (ytcracker, 2014) - This is more a modern tale than
+   baudpunk, really, but has a lot of throwback references and can kinda be
+   tied back to the baudpunk concept. Introducing Neals is a "nerdcore hip-
+   hopera" cautionary tale  of an all  too believable  near- future where a
+   corporo-government stranglehold on the internet sees encryption outlawed
+   and piracy punishable with prison time.
+
+
+
+EOF

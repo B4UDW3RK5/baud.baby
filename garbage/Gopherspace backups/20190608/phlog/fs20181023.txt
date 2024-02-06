@@ -1,0 +1,145 @@
+                                                 ________  ________  ________   
+   2018-10-23                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   Alright  lads,  let me  drop some awkward  /        _/         /         / 
+drunkish science on you with Cat's bona fide  \_______/_\___/____/\___/____/_
+aNONradio    OpenMic   ezstream   scientific    /        \/        \/    /   \
+technique. I make no promises about how well   /        _/         /_       _/
+it  works but it hasn't failed me yet except  /-        /        _/         /
+that  one time  it, quite spectacularly, did  \________/\________/\___/____/
+but  the less  said  about  that  the better
+amirite?
+
+   First  thing's first  you  need  to  get  setup! On  Debian,  the  One True
+Operating System(tm), you can do this by entering:
+
+      apt-get install ezstream
+
+   You'll need to do this as root or sudoing it or whatever and hitting enter.
+Answer yes to anything it asks, who cares, fuck it.
+
+   Once  ezstream  is installed  you  need three things: at  least  one mp3, a
+playlist to tell ezstream where the mp3  is and  an  XML file to tell ezstream
+what to do with the playlist.
+
+   The  below is my methodology but once you  see how  it works you can figure
+out how to work it best for you.
+
+   A bit  of background on why I do it like I do: during the week, the OpenMic
+blocks fall  right in the middle of the work day  for me so it's  not possible
+for me to stream from the rig I use for LOW WIRE or from Butt or anything like
+that so I set up ezstream on baud.baby to just punch out a couple tunes when I
+had  the chance. This itself posed two  new problems,  none of my  music is on
+baud.baby and it's  not  appropriate to just throw  everything I  like into  a
+playlist  because OpenMic is shared with other  DJs. This method  is how  I've
+found to work around  this,  it's clumsy but  my best work is  clumsy so let's
+proceed.
+
+   Firstly let's set up the XML. This has all the  info ezstream needs to tell
+it what to play, to where and how to describe it. Mine is saved in openmic/ as
+openmic.xml and looks thusly:
+
+      <ezstream>
+         <url>http://anonradio.net:8010/openmic</url>
+         <sourceuser>openmic</sourceuser>
+         <sourcepassword>s8pF3mrKgms</sourcepassword>
+         <format>MP3</format>
+         <filename>/home/cat/openmic/playlist.m3u</filename>
+         <stream_once>1</stream_once>
+         <svrinfoname>aNONradio OpenMic</svrinfoname>
+         <svrinfourl>http://www.anonradio.net</svrinfourl>
+         <svrinfogenre>Unix</svrinfogenre>
+         <svrinfodescription>Official underground radio of the SDF Public
+            Access Unix System</svrinfodescription>
+         <svrinfobitrate>192</svrinfobitrate>
+         <svrinfochannels>2</svrinfochannels>
+         <svrinfosamplerate>44100</svrinfosamplerate>
+         <svrinfopublic>0</svrinfopublic>
+      </ezstream>
+
+
+   It should be mostly self-explanatory but two things to note: first the .m3u
+is  the  playlist  we're  going  to  generate  in step three  so make sure you
+remember where you're  going to put  it  and what it's  called. You can always
+edit the .XML if you need to change it but I found it was really cumbersome to
+edit  the  XML each time I had  a new playlist so  my  tip is  make it  really
+generic  and just  mess with the playlist  to change  files.  If  you  have  a
+playlist you like and want to keep you can always make a copy into a different
+file.
+
+   The  other thing to note is the <stream_once>  setting, if that's set  to 0
+ezstream will just play the playlist until you exit it which is funny  but not
+cricket.
+
+   Secondly  let's  add our  mp3. On  baud.baby I have an ezstream/  directory
+where I  put all the mp3s I'd like  to play, as well as  the playlist and  XML
+files, there's  a subdirectory  in there called  stream/ which is the files  I
+want to send to the stream. So let's say for example in ezstream/ I have Simon
+Boswell's  excellent  "Diskette"   from  the   Hackers  soundtrack   saved  as
+diskette.mp3 and I want to play it on OpenMic. I move the file to stream/ with
+the command:
+
+      rm stream/* && mv diskette.mp3 stream/
+
+   I  use  rm  at the  start  to remove whatever files  are  in  the directory
+already, otherwise they'll be added to the playlist too in the next step.  You
+have to exercise a bit of  discipline with  this  to ensure you're not leaving
+files in stream/ that  you  haven't streamed yet but it's easy to maintain, if
+you're  worried about  it then as  an  alternative  you could  probably use mv
+stream/* ~/openmic/ && whatever  at the start so anything in stream/ is dumped
+back in to  openmic/ before the  new file  is  moved  in.  Note: all of  these
+commands and the  below assume you're in the openmic/ directory - I'm sure you
+could do  it from most anywhere but your  CLI-fu might need to  be better than
+mine.
+
+   Now we've  got  our  file  where we want  it, next step is  to populate the
+playlist. I do  this  with  the  following  command,  again from the  openmic/
+directory:
+
+      ls -d -1 stream/* | shuf > playlist.m3u && cat playlist.m3u
+
+   The -d argument on ls makes  it include the directory name and the -1 makes
+only one item print per line, that gives us a list of all our files in /stream
+which is then piped to shuf  to randomize the  list, you can omit  this bit, I
+just do it to mix things up a bit,  then the greater-than symbol redirects the
+output  of shuf into the playlist.m3u  file and finally cat playlist.m3u  just
+prints the new, shuffled  playlist for a quick eyes-on to make sure everything
+looks ok.
+
+   Still with me?
+
+   The last step is two parts,  part one is get your ass on  com  and into the
+anonradio  room  or onto IRC's #aNONradio  room and announce  you're going  to
+stream  or coordinate with  other streamers. Technically  optional  but you've
+gotta treat the other streamers with respect and not  be an asshat, we're  all
+there just to share and have a good time.
+
+   Part the second is, when you're ready to stream you blast your playlist out
+with the command:
+
+      ezstream -c openmic.xml
+
+   Again, I'm doing this  from the openmic/ directory. You  should see  it say
+it's  connected to  the server we  put  in <url>  in  the XML  and  that  it's
+streaming your file. If it gives you an error saying that it could not connect
+and  you're  sure  the XML  is correct then  it  could  be  someone is already
+streaming.
+
+   But you'd know that.
+
+   Because you're in com or the IRC channel, right?
+
+   So  that's the long and  short of it, configure my shit,  dump  files in  a
+directory, move what I  want to play into  the stream/ directory,  spit  out a
+playlist and  stream it to  the  OpenMic mountpoint. Easy peasy for  me-sy and
+people stronger than me  will no doubt be  able  to simplify it even  further,
+I've fiddled with stringing it all  together  like  rm && mv && ls && ezstream
+all in one line but it got  a bit cumbersome when using a  lagged to heck web-
+SSH client  from work. You could also  look at aliasing some stuff, to make it
+easier but I haven't had the time to play with that yet.
+
+   Hope that helps and hope to see some new faces on OpenMic! Cat out.
+
+
+
+EOF

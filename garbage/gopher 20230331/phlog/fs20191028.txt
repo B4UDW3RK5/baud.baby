@@ -1,0 +1,94 @@
+                                                 ________  ________  ________
+   2019-10-28                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Man, in  the space of  a long  weekend  I  /        _/         /         /
+feel    like   I    went   from   completely  \_______/_\___/____/\___/____/_
+uninterested in anything to  hyper-motivated    /        \/        \/    /   \
+to   do  everything.  I  even  reclaimed  my   /        _/         /_       _/
+office! Thank you, Sour Diesel! Hahaha.       /-        /        _/         /
+                                              \________/\________/\___/____/
+   Oh and speaking of; I was inspired by the
+impeccable  brool[1] to start my own  "secret" side-phlog. You can find it  on
+tilde.black under  the user "genin"[2]  but make sure you use cgo[3]  or, in a
+pinch, vf1[4] for the full effect because it's a fucking masterpiece.
+
+   Anyway, I've  got a lot I want to do but first cab off the rank  has  to be
+~tel work. What  was once  my  pride  and joy  is  so neglected  that  I  feel
+embarrassed to  even  talk  about  it, to  try and not draw  attention to  how
+inactive I've been. But now I'm back! I've  merged in the 1900s extensions I'd
+missed and updated some  bits and pieces behind the scenes but here's what I'm
+aiming to have done by the end of the year:
+
+    - Re-record all  the announcements.  There are  a  lot of  these so I'm
+      going  to be  strategic  about it, recording the ones  we use now and
+      then only re-recording the ones I need as I need them.
+
+    - Fix operator! I'm  fiddling  with  archangelic's  pinhook[5]  but  am
+      having some  trouble  getting past the first hurdle but once I've got
+      the bot up and running baking in the Asterisk pieces shouldn't be any
+      harder  than the old operator bot and from there  I can  build on  it
+      further.
+
+    - Improve the conference  bridge.  It's all very stock-standard  at the
+      moment  and there's lots of  little  tweaks and additions to make  it
+      more comfy.
+
+    - C*NET integration. This has been my albatross and  is what completely
+      shut  down  any  interest  I  had  in  ~tel.  It's   complicated  and
+      frustratingly bulky. Just integrating their standard  dialplan didn't
+      work  so I have to reverse engineer  it which  isn't hard,  dialplans
+      aren't that difficult and you just need patience, but it feels like a
+      mountain and has already thrown me off once.
+
+    - URI dialing. This should  be  pretty simple and  yet I still  haven't
+      done it.
+
+    - Move  the gateways to  service numbers. Once the C*NET stuff is  done
+      I'm going  to  move  the  SDF  and  Futel gateways  from the 1900s to
+      service  numbers instead, that'll give us three gateways  out of ~tel
+      and into other community/hobbyist networks.
+
+   Basically a great big list of shit I should have already done but noped out
+because I didn't figure it out immediately.
+
+   So  that's ~tel, but what  else? November 9  is my  one-year anniversary at
+TildeRadio and I've decided to call it a day. I gave it a good  try, showed up
+every week or made apologies when I couldn't, but there's been no growth. I've
+done what I can  but with a near-zero social/web presence it makes it  tricky,
+any time  I try and push to get more traction I'm doing so to a small group of
+people who already  know  what  TildeRadio is and aren't interested so at this
+point it feels like I'm just beating a dead horse.
+
+   I'll definitely still be around and streaming  this or that  for TildeRadio
+whenever the mood strikes me, but I won't  be channeling orgone  into prepping
+playlists and stuff for a weekly show anymore.
+
+   That still means  there's two shows left, tune  in if you can!  Fridays  at
+2100 UTC on tilderadio.org - hope to see you there.
+
+   So where  will I be  redirecting that  energy?  Well  I'd like to get  that
+regular ~tel/TildeRadio  OpenVoIP analog up and running, it's been in the back
+of my mind  for  a  while but haven't put shoulder to  wheel on it in any way,
+it's long overdue. I'll have  to think of a  way to  make it its own thing and
+not just a straight up copy of aNON's OpenVoIP but  we'll see how that goes so
+stay tuned.
+
+   Aside from that I've  got one other secret project already underway, though
+it's a few  weeks off yet since there's a specific timing for it. I won't give
+too many details but it's going to be cute and fun and very deep underground.
+
+   That's about it! Some new junk  coming for baud.baby too  but that'll write
+about that once it's done.
+
+   See you around.
+
+
+[1] gopher://tilde.black/1/users/brool
+[2] gopher://tilde.black/1/users/genin
+[3] https://github.com/kieselsteini/cgo
+[4] https://github.com/solderpunk/VF-1
+[5] https://archangelic.space/pinhook/
+
+
+
+EOF

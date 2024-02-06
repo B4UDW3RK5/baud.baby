@@ -1,0 +1,25 @@
+                                                 ________  ________  ________   
+   2019-03-17                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   So  thinking  on  what I want to  do with  /        _/         /         / 
+tilde.tel  and  some  of  the  stuff  that's  \_______/_\___/____/\___/____/_
+happening around it, I mentioned in the last    /        \/        \/    /   \
+FAX SEX file that  I was thinking of opening   /        _/         /_       _/
+up  a  block  of  extensions  for  the  ~tel  /-        /        _/         /
+community to  hack on. Did I mention that? I  \________/\________/\___/____/
+think I did and I'm not going to check.
+
+   Anyway, allow me to introduce the  1900s, which is exactly that; a block of
+100 (well 99 really, I claimed one for myself) extensions that can be built on
+as the ~tel community pleases! It's all up on  GitHub[1] so it's just a matter
+of forking  and editing and sending  a pull request  like you would any  other
+code.
+
+   Easy peasy! As they say down here in Australia; get amongst it!
+
+
+[1] https://github.com/tilde-tel/the1900s
+
+
+
+EOF

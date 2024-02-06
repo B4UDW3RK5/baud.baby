@@ -1,0 +1,10 @@
+#!/bin/sh
+
+#. /etc/efingerd/log
+
+if [ "$3" = "cat" ]; then
+  cat /home/cat/.finger
+  exit 0
+fi
+
+echo "Nobody is home."

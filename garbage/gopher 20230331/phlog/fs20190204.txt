@@ -1,0 +1,56 @@
+                                                 ________  ________  ________
+   2019-02-04                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Ten thousand  years  ago, when  I was  in  /        _/         /         /
+high school, the personal computer was still  \_______/_\___/____/\___/____/_
+a  reasonably  new thing  and  our  school's    /        \/        \/    /   \
+network  was  almost  all  MS-DOS  machines,   /        _/         /_       _/
+there  was  a  Macintosh  in   the  graphics  /-        /        _/         /
+department and later a couple of Windows  95  \________/\________/\___/____/
+"multimedia" machines in the Library but the
+bulk of them, and certainly every machine in the computer lab were MS-DOS.
+
+   The  idea of  "IT education" was fairly new too and still finding its feet,
+padding out the curriculum with stuff like  touch-typing  and word processing.
+We did do some BASIC lessons and whatnot but mostly "IT" was just training you
+up for office busywork.
+
+   In  my  youth I  wasn't much  unlike  I  am  now, about 50% smart  and  50%
+smartass, and even with only a little computer knowledge it wasn't hard to run
+rings around the teacher. The work was very easy and very boring so I'd get up
+to mischief pretty regularly. One thing  that I remember pretty vividly  was a
+couple of running text files  set up by a friend and I (actually  I think they
+might  have  been originally WPS  files) on  the server,  README  and X-FILES.
+README was a crude running chat or  message log  and X-FILES  was a repository
+for jokes and  gags.  You'd just fire  up  the file  in  MS  Works or  EDIT or
+whatever  and add lines to the bottom,  of course there was nothing preventing
+you deleting or editing other people's additions or anything like that, it was
+literally just a shared file.
+
+   Me being  me and being  extremely  triggered by data loss,  I  never delete
+anything so I  still have  some fragments  of these two  files  some 23+ years
+later. X-FILES  is complete as  far  as I  know, but README is missing a large
+chunk  in the  middle  where  it was deleted  either  by a teacher  or another
+student. I won't go into the contents of  the files but  suffice it to say  it
+was typical 90s teenage boy crap; bad grammar, worse  spelling, lots of angst,
+lots of butting heads and lots of casual slurs that would get  you straight up
+lynched these days hahaha.
+
+   So why am I bringing all this up?
+
+   Well crash  cut  to  today  and  I'm dinking with  MS-DOS and  Windows  for
+Workgroups  3.11 on  a  virtual  machine,  got  it online and  punched  out to
+baud.baby for laughs, then hit up circumlunar.space because I know they have a
+few super-simple chat clients on there.  I dropped  into schat[1]  and then it
+all clicked; I'd come full  circle. From appending  text files in my youth, to
+IRC to social media, to video chat,  back to  social media and back further to
+IRC and finally, right back to appended text files.
+
+   It made me grin.
+
+
+[1] gopher://circumlunar.space/1/software/schat
+
+
+
+EOF

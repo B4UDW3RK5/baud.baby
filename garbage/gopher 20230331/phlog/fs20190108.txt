@@ -1,0 +1,50 @@
+                                                 ________  ________  ________
+   2019-01-08                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   Get  me  to a  doctor,  I've  got  finger  /        _/         /         /
+fever!  Everyone's  doing  it!  Finger  your  \_______/_\___/____/\___/____/_
+friends, finger your boss, finger your mum!     /        \/        \/    /   \
+                                               /        _/         /_       _/
+   There had  been  some poking  around with  /-        /        _/         /
+finger for a few  weeks or so in the  PUBNIX  \________/\________/\___/____/
+space, I messed with trying  to get a custom
+response  though lost interest  pretty  quick and gave it the flick, but  then
+solderpunk not only pointed out the  very versatile finger daemon efingerd but
+then nailed it with the  excellent fellowsh[1].  It's essentially a minimalist
+social network, built on core UNIX utilities, with finger at its heart.
+
+   The philosophy of it, inspired by a quote by Dennis Ritchie, is also really
+compelling. That's the kind of  flavor that  really  "makes" UNIX for me. It's
+interesting to me that plain text programs can have so much  personality,  but
+that's probably something for its own file.
+
+   I scratched the finger itch by throwing a few things up  on  baud.baby. You
+can  finger cat@baud.baby  of  course, for the usual suspects  like  .plan and
+.project nicely formatted for easy reading, but you can also finger @baud.baby
+itself for the status of the  server, plus a  short list  of  recently updated
+files. You can also finger weather@baud.baby for my  local weather  and  a few
+other Easter eggs, maybe even the baby has a response for you!
+
+   Around the traps, tomasino has @cosmic.voyage not only  returning a list of
+the logged  in  users  but  also which  ships  they  write  for and  fingering
+individual users will list their  ships for you too. jynx has phlog@1436.ninja
+returning  the contents  of his most recent phlog file which is something I'll
+add  to baud.baby when I get a chance and is something  I  genuinely hope gets
+adopted  more widely,  keeping phlog@ as  the prefix. It seems like  a  really
+elegant way to give  readers  a method  to  quickly  check if you've  updated.
+You'll also find kensanata also doing some interesting finger-gopher crossover
+stuff,  essentially  working  finger  into  a  simple  gopher  client;  finger
+alex@alexschroeder.ch to check it out.
+
+   Not too bad for a protocol that's just celebrated its 41st birthday!
+
+   PS. I've started working  on something for my Gopher space on the Zaibatsu,
+there's  a lot more work  to go into it before it's  ready but keep  your eyes
+peeled.
+
+
+[1] gopher://circumlunar.space/0/~solderpunk/phlog/were-bringin-finger-back.txt
+
+
+
+EOF

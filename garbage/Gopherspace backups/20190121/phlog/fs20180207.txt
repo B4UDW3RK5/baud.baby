@@ -1,0 +1,66 @@
+                                                 ________  ________  ________   
+   2018-02-07                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   At  times I find being part  of a highly-  /        _/         /         / 
+technical community  a  little  frustrating.  \_______/_\___/____/\___/____/_
+While  I  am  interested  in   software  and    /        \/        \/    /   \
+technology  I'm  far  more interested in the   /        _/         /_       _/
+people involved, so to me post after post of  /-        /        _/         /
+dry   hardware   catalogs    and    software  \________/\________/\___/____/
+preferences can get a bit tedious.
+
+   That is of course completely subjective and by no means me trying to impose
+on anyone to do anything but what they want to do, I'm certain there are a lot
+of people in the gopher community that find my scattered, long-winded lifelogs
+just as, if not more tiresome.
+
+   The flip side of that is  that being part of a technically minded community
+means  shit  really gets done and there's no finer  example at the moment than
+the phlogosphere listings.
+
+   After launching gopher.club some changes were made to the phlogs listing on
+SDF and they were no longer ordered based on when they were last listed by the
+phlog owner, instead they  were ordered  by last edit, meaning anyone  who did
+anything  to their gopher  directory whether it was a phlog  post  or not  was
+bumped to the top and now they're ordered alphabetically.
+
+   There was  some grumbling of  course  but there were  a lot of  people just
+diving right in  and rolling up alternatives to the phlogosphere list. Ulcer's
+top  list[1]  was  the first  I saw, with a  straight up  replacement  for the
+existing list  and I've seen a shorter,  monthly-list from  auzymoto[2]  and a
+neat  list  from  slugmax[3] that returns  the 40 most recent phlogs, based on
+updates to a gopher hole's root gophermap.
+
+   More outside-the-box is kensanata's Moku Pona[4] which essentially lets you
+nominate a list  of gopher spaces to monitor for updates and returns a list of
+them  ordered  by most  recently  updated,  kind  of like  a user-configurable
+bongusta. I think  this  one is especially interesting  because you could  add
+gopher holes from anywhere in gopherspace, not just the SDF gopher.club.
+
+   Finally, worth  a  read  is tomasino's ideas  for  an  aggregator[5]  which
+outlines  the  requirements for what sounds like the  perfect aggregator. What
+particularly stood out for me is checking for  phlog's gophermap,  similar  to
+slugmax's list and having the link in the aggregator link  to the post itself,
+rather than the user's gopher space. Ideally you could  even nominate a submap
+to monitor. My phlog's gopher space is set up in such a way that the gophermap
+file just pulls together a handful of  submaps; one for the fancy  header  and
+description, one for the list of  phlogs and one for the "back to" link, so if
+it  could be  worked  that a  change  would only register  if the  phlogs list
+gophermap  was  updated  then  it'd  avoid,  at least  in  my case,  my  phlog
+registering as being updated when all  I'm doing is  fiddling with the layout.
+I've got no idea about the logistics of that, just thinking out loud.
+
+   Anyway,  to  conclude;  I   agree   that  it's  a  real  bummer   that  the
+phlogosphere/gopher.club list is a mess right now but  you really can't be mad
+when, as a result so many interesting things are going on.
+
+
+[1] gopher://sdf.org/1/users/ulcer/toplist
+[2] gopher://sdf.org/1/users/auzymoto/
+[3] gopher://sdf.org/1/users/slugmax/cgi-bin/recently_updated_gophers.cgi
+[4] gopher://alexschroeder.ch/02018-02-05_Moku_Pona
+[5] gopher://gopher.black/1/phlog/20180206-ideas-for-an-aggregator
+
+
+
+EOF

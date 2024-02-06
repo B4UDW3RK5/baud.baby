@@ -1,0 +1,160 @@
+                                                 ________  ________  ________
+   2019-01-03                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   What  up y'all, happy  new  year  and all  /        _/         /         /
+that  good  stuff.  I should  probably  do a  \_______/_\___/____/\___/____/_
+proper write-up  of my holiday  break but  I    /        \/        \/    /   \
+wanted  to get this one up  while the  files   /        _/         /_       _/
+are still fresh out da oven.                  /-        /        _/         /
+                                              \________/\________/\___/____/
+   Dani works in  retail so the weeks before
+and following  Christmas are some of her busiest  times, before Christmas that
+was no  big deal because I was at  work too but my office shuts  down  between
+Christmas and new year so after  Christmas I was left home  alone with no real
+motivation to do much. I filled a bit  of the time  by streaming a whole bunch
+on Tildeverse Radio, I had no real plan for what I was going to do but for the
+most part I ended up delving into a bunch of mixtapes I never finished.
+
+   I outlined  the tapes a couple  times  on  the stream but  the short,  text
+version;  before I was involved with aNONradio I was half-making mixtapes  for
+the fun of it, mostly on a specific genre or with a specific theme or concept.
+Some of these ended  up transitioning into  LOW WIRE playlists  and  some were
+broken down into  parts for Soft Ash but most of them were just left abandoned
+and unfinished.
+
+   I was looking  for something to play on Tilde Radio and dug into one of the
+tape tracklists as  an easy jumping-off  point but instead it set me off on  a
+whole journey. It's  split out over a few  archives and over a few days so let
+me give you a  quick guide, in case you'd  like to listen! The headings should
+match filenames in the  list on https://archive.tilderadio.org/cat/  - if they
+don't, let me know and I'll fix this file.
+
+   Apologies for the blips and bloops, the silence and the sloppy streaming in
+places, I was goofing with my setup and settings during these and trying to do
+a few new  things on the fly and drinking all the while! It's all  part of the
+fun, really.
+
+   Also be mindful of your ears at the start and end because the  automatic DJ
+really comes booming in on a few of the files.
+
+
+   tilderadio-2018-12-27T02:59:48.mp3                               1:00:46
+
+      This is loosely related, though I wasn't really streaming with a plan
+   to dig  into the mixtapes at this point and wasn't  all that chatty. The
+   music I  play is mostly  from  what was  the Secret  Bunny Base: Kitchen
+   mixtape, which is a lot of soul/Motown sound and similar.
+
+
+   tilderadio-2018-12-29T00:03:02.mp3                               0:55:04
+
+      This starts half  way through a song because my internet  dropped out
+   but all you missed was  me  mumbling while I got  my  stuff  set  up, my
+   internet continues to be wiggy for a little while and you get  to listen
+   to me troubleshoot! Like the previous  archive this was me just  digging
+   into the mixtapes for a starting point, I play a lot of 90s/gangster rap
+   at the start and about half an hour in I'm joined by Dylan Wallclock for
+   a little while  (clumsily, apologies for all  the while when we tried to
+   set it up haha).
+
+
+   tilderadio-2018-12-29T01:01:03.mp3                               0:58:32
+
+      I'm  talking with my mouth full for a little bit at the start of this
+   one, I make  no  apologies haha. Grape salad. Delicious. Having Dylan on
+   the stream with me reminded of the two playlists we were tossing up when
+   doing he was going to help me with  for LOW WIRE over Christmas which in
+   turn kicked  off the dive  into the  mixtape playlists.  Really  you can
+   thank Dylan for this whole  thing! At  the  start of this stream  I talk
+   about the mixtapes themselves, how they relate  to LOW WIRE,  etc. We go
+   through a mixtape concept of a group of teenage friends, cruising to the
+   beach in California in the summer of 1991. The music is Lots of old hard
+   rock and  rock  ballads.  Towards  the  end I  start  going  through and
+   outlining some of the other tape playlists I had in my list.
+
+
+   tilderadio-2018-12-29T02:01:17.mp3                               1:52:32
+
+      In this file I take  you through the "Not the '80s" playlist, a bunch
+   of more  recent songs that have an '80s vibe. This one was  a lot of fun
+   to revisit. I ramble on about the Venture Bros. cartoon and the Kentucky
+   Route Zero video game and a bunch of other  stuff  and we listen to some
+   really  great music.  I misspoke at one  point  about the dates  for Sid
+   Luscious; I said  2011/2012,  I meant 2001/2002 but was still wrong, the
+   album was released  2005  haha.  Also,  at  about 45  minutes in Spotify
+   flakes out for me for a few seconds.
+
+      We  go  through  the  "Not  the  '80s"  playlist  until  about  1:18,
+   afterwards I play another  track from one of the artists that was on the
+   mixtape and then I go right into some of the tracks that would have been
+   from  an "'80s Album  Tracks"  mixtape.  Unfortunately the archive kinda
+   eats the last few seconds.
+
+
+   tilderadio-2018-12-29T09:02:18.mp3                               1:01:30
+
+      I dunno  why the first bit of this  didn't archive but  it was mostly
+   just me just fiddling with my Audio Hijack settings, deciding what I was
+   going to play and talking about the washing machine tripping the circuit
+   breaker  in  the  apartment.  This  is  mostly from  the  chip-pop  tape
+   tracklist and try  to  find  a  few more  tracks to fill it out but lose
+   interest  and play  some Japanese idol stuff instead to  round  out  the
+   hour. This hour was not so interesting, I don't provide much context for
+   what you're listening to but the music is good!
+
+
+   tilderadio-2018-12-31T02:01:48.mp3                               1:11:46
+
+      Starts  halfway through a song but it was just something  I threw  on
+   while I  got myself  organized. My mic volume is  a bit low on this one,
+   not sure why, probably from when I was fiddling with the settings in the
+   previous stream. In this file I talk about what we  were going to do for
+   LOW  WIRE  on the  week I  was away and go through most  of  the Barcade
+   mixtape, which was the other playlist we had earmarked for Dylan to use.
+   Lots of funky party tracks. I also talk about making a Pi-hole, take  an
+   adventure into  adding more inputs to  Audio Hijack and  other rambling.
+   Except for the start, I don't actually talk  much about the mixtapes  in
+   this one at all haha.
+
+
+   tilderadio-2018-12-31T03:14:03.mp3                               1:43:46
+
+      Internet  wigs  out a  bit at the start but we  continue through  the
+   glitchy hip hop and spoken word mixtapes and I rattle on at length about
+   the artists in the playlists. I try to play a CD but no dice, I think it
+   would have worked but I couldn't  find the CD and still haven't found it
+   so I dunno  what's up with  that. At  about 55 minutes in I accidentally
+   move  a  block and  heck up my streaming setup so there's a bit of chaos
+   for about ten minutes,  but also some insight  into the way I have Audio
+   Hijack set up.
+
+
+   tilderadio-2018-12-31T04:58:02.mp3                               1:45:32
+
+      Starts  off  with  the  few  tracks  from  what  would  have  been  a
+   hackers/hacking kinda cyberpunk themed tape but then drifts into just me
+   playing  and  talking  about  Jared  Hendrickson,  Chemlab  and  related
+   artists,  and then  some loosely related UK  electro industrial stuff. I
+   misspoke at one point and said Charles Levi was in KMFDM but  I meant My
+   Life With the Thrill Kill Kult haha. I also discover that there might be
+   some kind  of Six  Degrees  (I  accidentally say "seven") of Kevin Bacon
+   situation with bands I like and Jared Hendrickson.
+
+
+   tilderadio-2018-12-31T06:43:48.mp3                               1:45:01
+
+      Starts back on  track  with revisiting  the mixtapes, looking  at the
+   tracklist of an indie  rock tape, but then goes quickly off-track when I
+   start  talking  about  lost  or forgotten  music,  mp3.com,  responsible
+   hipsters and why you should share what you're listening  to  and promote
+   the heck out of everyone.
+
+
+   A  huge thank you to anyone who listened to while I was doing  them live or
+has listened to the archives.  Thank  you  to everyone who still tunes in  for
+Soft Ash and  sincere thank  you to the Tildeverse Radio guys for  setting the
+service up and to the other DJs for doing what they do.
+
+
+
+EOF

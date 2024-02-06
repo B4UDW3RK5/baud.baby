@@ -1,0 +1,63 @@
+                                                 ________  ________  ________   
+   2018-09-26                                   /        \/        \/    /   \  
+                                               /       __/         /_       _/ 
+   So  I  picked  up  a couple  of answering  /        _/         /         / 
+machines  to add  to my rapidly growing pile  \_______/_\___/____/\___/____/_
+of non-Touchphone phone stuff  and the first    /        \/        \/    /   \
+one,  a  Voca AT-551 arrived  yesterday and,   /        _/         /_       _/
+wow,  I  was  expecting this  to  be  pretty  /-        /        _/         /
+straight forward  but without a  manual  I'm  \________/\________/\___/____/
+completely  lost.  The settings are  all  so
+cryptic  and the unit  just throws equally cryptic errors at  me constantly. I
+found a quick-reference guide for the next model down, the AT-550 which hasn't
+been  much help unfortunately. The settings  were entered a little differently
+between the two models and there's not much overlap.
+
+   However I am patient  and curious so here's what settings I've  managed  to
+sleuth out so far:
+
+   P.1 This is  the setting  the time. Select P. 1 then press ENTER, select
+       from 1 to 7 for the day of the week (I have no idea yet whether 1 is
+       Sunday or Monday because I get a tape  error when  I try to playback
+       the time). Hit ENTER  again and you can select from 0 to 23  for the
+       hour of the day then ENTER once more to set the minutes and ENTER to
+       finish.
+
+   P.2 Lets  you select a number  from 0 to  9 three times,  pressing ENTER
+       between each  selection. I believe  this sets the  PIN to check your
+       messages remotely.
+
+   P.3 Lets you  select a number between  1 and 9 and then a  second number
+       between 0  and  9, pressing  ENTER  between  each selection and then
+       ENTER  to confirm. My best guess is this is the seconds or number of
+       rings before the machine answers a call but I  haven't been able  to
+       test yet.
+
+   P.4 You can select from 0 to 9, a degrees symbol, P, L or E. So far I've
+       learned  that  if I  select 0-9  and  press ENTER  I  can just  keep
+       selecting  numbers until I  select E, so  I surmise that E  ends the
+       input. It's entering in  some kind of numeric string so maybe it's a
+       phone number? It does have a paging facility so this could likely be
+       setting  the  phone  number  or  pager number that it  pages when  a
+       message is received.
+
+       After writing this all  out for  this  phlog and thinking about what
+       other settings are available on the  device, I'm pretty certain this
+       has to  be the paging  number, otherwise there's no other way to set
+       it  that I can  see. As for the degrees symbol, P and  L options - I
+       have no idea.
+
+   These last two settings are the real fuckin' mysteries:
+
+   P.5 Two selections here, from 1 to 9 and then from 1 to 3, ENTER between
+       and ENTER  to confirm.  The second option may vary depending  on the
+       first option but I haven't checked all 9 yet so can't say. I have no
+       idea what this could be.
+
+   P.6 Options are 0 or 1 with ENTER to confirm. Emphatic shrug.
+
+   So how are y'all with puzzles? Hahaha.
+
+
+
+EOF

@@ -1,0 +1,73 @@
+[Note: I tried  to fix this  article as I went but it's such a mess that I gave
+up and instead present it as-is, check the JPEG if you don't believe me.]
+
+Local manufacturing technology for new phone
+
+New  manufacturing technology developed  in  Australia  will  be used  to build
+Australia's latest standard telephone, the Touchfone 200.
+
+A  joint  development between Telecom, AWA  and Alcatel-STC, the new phone will
+have many new features including  soft touch keypad, 10 stored  memory numbers,
+last  number redial  and  PABX compatibility. Both AWA and Alcatel-STC will  be
+making the phone.
+
+Drawing on its own R  & D facilities, AWA  designed and  constructed  computer-
+controlled assembly and testing equipment.
+
+The AWA assembly line will  produce  over  3,000 phones  per day for  the local
+market with additional capacity for export orders.
+
+The Touchfone 200 is a major  advance in telephone design and has  considerable
+export  potential, according to AWA Executive General Manager,  Communications,
+Warwick Bishop.
+
+"The Touch fone 200, as a standard phone, is superior in design and features to
+every other standard phone sold in the world today."
+
+"We  used  our  own  skills  and technology to design and manufacture both  new
+components for the phone and highly automated assembly methods."
+
+"The very  important speech processing circuit, for instance,  was designed  at
+AWA's micro circuit design centre and
+
+lians, AWA designed and installed  a  series of quality  control  testbeds that
+will  be produced  at  the  company's new  $60 million micro  circuit  plant at
+Homebush, NSW," Mr Bishop said.
+
+The  Telecom  developed  soft-touch  keypad  is  also   regarded  as  a  unique
+development.
+
+Quality being critical for an item that will eventually be used by most Austra-
+
+monitor manufacturing and assembly performance at each step.
+
+Alcatel-STC is  also  installing a $300,000  robotic system  at its  Alexandria
+factory to  automate its  assembly of  the printed circuit board that is at the
+heart of the telephone.
+
+Developed  by  company  engineers  in  conjunction  with  the   Automation  and
+Engineering  Applications Centre  in  Wollongong,  OSCAR  (Odd-Shaped Component
+Assembly Robot)  will  insert a series of five non-uniform  components onto the
+printed circuit  board. The  remaining non-uniform components  will  be handled
+manually. All other components will be automatically inserted.
+
+OSCAR is an AdeptOne  four-axis manipulator robot form Adept  Technology in San
+Jose, California. It is  powered by an Adept  MC Controller that allows several
+tasks to be performed at once with no degradation of performance.  It  can, for
+example, control a  conveyor  or  communicate with an external computer  at the
+same time the robot is fulfilling its primary function.
+
+The AdeptOne is the  first commercial robot to employ direct drive  technology.
+This  generates high  torque at relatively low  motor  speeds with  no  loss of
+mechanical  advantage, making  cycle speed  several  times  faster than that of
+conventional robots.
+
+
+Photos:
+
+   The main components inside the new Touchfone 200, which has been designed
+   for minimum assembly time. The  soft touch keyboard  connects directly to
+   the main PC board. (Courtesy AWA)
+
+   Alcatel-STC  is  using a  new  robotic system  called  OSCAR  (Odd-Shaped
+   Component Assembly Robot) to assemble the Touchfone 200.
