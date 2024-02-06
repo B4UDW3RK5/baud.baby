@@ -1,2 +1,0 @@
-inobody@baud.baby:~$ grep "(cat) now playing:" /home/cat/.weechat/logs/irc.~chat.#tilderadio.weechatlog	/	baud.baby	70
-=grep "(cat) now playing:" /home/cat/.weechat/logs/irc.~chat.#tilderadio.weechatlog | sed 's/\t/ /g;s/%tildebot \[Tilderadio\] (cat) now playing: //g;s/thee Soft Ash Société presents: //g;s/^/i/;s/$/\t\/\tbaud.baby\t70/'
