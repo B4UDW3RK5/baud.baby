@@ -46,5 +46,8 @@ like anymore or indulge music you think is embarrassing or silly.
 be well.
 
 
+[1] gopher://sdf.org/0/users/christyotwisty/phlog/2024-04-03.txt
+
+
 
 EOF
