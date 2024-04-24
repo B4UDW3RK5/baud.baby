@@ -8,15 +8,15 @@ echo "[i|a folk tale with versions first found in the 1700s, though it's|/|baud.
 echo "[i|believed it may have origins as far back as the 1560s.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "[i|› 45 T0LD BY     › Y34R|/|baud.baby|70]"
-Lyttelton, Thomas                          1782
-Lewis, Matthew Gregory                     1816
-Harland, John & Wilkinson, Thomas Turner   1882
 Burne, Charlotte S.                        1884
-Jacobs, Joseph                             1894
 Carlson, Natalie Savage                    1980
-Straub, Peter                              1980
 DeSpain, Pleasant                          2003
 Dunlop, John Colin                         2010
+Harland, John & Wilkinson, Thomas Turner   1882
+Jacobs, Joseph                             1894
+Lewis, Matthew Gregory                     1816
+Lyttelton, Thomas                          1782
+Straub, Peter                              1980
 
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 (cat ../layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
