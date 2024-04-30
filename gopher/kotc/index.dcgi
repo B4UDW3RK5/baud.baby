@@ -7,16 +7,16 @@ echo "[i|   A collection of versions of the story of the King of the Cats,|/|bau
 echo "[i|a folk tale with versions first found in the 1700s, though it's|/|baud.baby|70]"
 echo "[i|believed it may have origins as far back as the 1560s.|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
-echo "[i|› 45 T0LD BY     › Y34R|/|baud.baby|70]"
-Burne, Charlotte S.                        1884
-Carlson, Natalie Savage                    1980
-DeSpain, Pleasant                          2003
-Dunlop, John Colin                         2010
-Harland, John & Wilkinson, Thomas Turner   1882
-Jacobs, Joseph                             1894
-Lewis, Matthew Gregory                     1816
-Lyttelton, Thomas                          1782
-Straub, Peter                              1980
-
+echo "[i|› 45 T0LD BY                               › Y34R|/|baud.baby|70]"
+echo "[0|Burne, Charlotte S.                        1884|kotc1884burne.txt|baud.baby|70]"
+echo "[0|Carlson, Natalie Savage                    1980|kotc1980carlson.txt|baud.baby|70]"
+echo "[0|DeSpain, Pleasant                          2003|kotc2003despain.txt|baud.baby|70]"
+echo "[0|Dunlop, John Colin                         2010|kotc2010dunlop.txt|baud.baby|70]"
+echo "[0|Harland, John & Wilkinson, Thomas Turner   1882|kotc1882harlandwilkinson.txt|baud.baby|70]"
+echo "[0|Jacobs, Joseph                             1894|kotc1894jacobs.txtbaud.baby|70]"
+echo "[0|Lewis, Matthew Gregory                     1816|kotc1816lewis.txt|baud.baby|70]"
+echo "[0|Lyttelton, Thomas                          1782|kotc1782lyttelton.txt|baud.baby|70]"
+echo "[0|Straub, Peter                              1980|kotc1980straub.txt|baud.baby|70]"
+echo "[i||/|baud.baby|70]"
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 (cat ../layout/footer && echo "Y0UR 515T3R'Z F4V0R1T3 H4CK3R" | /home/cat/.cargo/bin/lolcrab -c \#d7fd5e \#d9c974 \#d9c974 \#df8a9f \#df8a9f \#e460b7 \#b4e873 \#7e74ab) | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
