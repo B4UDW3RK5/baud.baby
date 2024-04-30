@@ -1,8 +1,7 @@
 #!/usr/local/bin/zsh
 sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/' ../layout/header
 echo "\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "$(/home/cat/.cargo/bin/rorgone 3)  NF0\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "[i||/|baud.baby|70]"
+echo "$(/home/cat/.cargo/bin/rorgone 3)  NF0" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "[i|   A collection of versions of the story of the King of the Cats,|/|baud.baby|70]"
 echo "[i|a folk tale with versions first found in the 1700s, though it's|/|baud.baby|70]"
 echo "[i|believed it may have origins as far back as the 1560s.|/|baud.baby|70]"
