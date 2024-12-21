@@ -1,7 +1,7 @@
-                                                 ________  ________  ________   
-   2021-03-19                                   /        \/        \/    /   \  
-                                               /       __/         /_       _/ 
-   I started  writing  about Gemini  and the  /        _/         /         / 
+                                                 ________  ________  ________
+   2021-03-19                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   I started  writing  about Gemini  and the  /        _/         /         /
 recent  wave  of interest  from a circle  of  \_______/_\___/____/\___/____/_
 tech/Linux  YouTubers  and the more  I wrote    /        \/        \/    /   \
 the more I felt like I was getting  déjà vu.   /        _/         /_       _/

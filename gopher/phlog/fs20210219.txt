@@ -1,7 +1,7 @@
-                                                 ________  ________  ________   
-   2021-02-19                                   /        \/        \/    /   \  
-                                               /       __/         /_       _/ 
-   In   the   words  of   Ice-T;  I'm   back  /        _/         /         / 
+                                                 ________  ________  ________
+   2021-02-19                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   In   the   words  of   Ice-T;  I'm   back  /        _/         /         /
 motherfucker! baudVision has  been on hiatus  \_______/_\___/____/\___/____/_
 for who  knows how  long after I  decided to    /        \/        \/    /   \
 rebuild it from the ground up and then never   /        _/         /_       _/
