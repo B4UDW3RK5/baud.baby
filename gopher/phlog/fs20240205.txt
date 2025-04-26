@@ -8,7 +8,7 @@ would be familiar with,  A4  paper being  an   /        _/         /_       _/
 ISO standard A sheet cut in half four times.  /-        /        _/         /
                                               \________/\________/\___/____/
 
-   ISO ISO 4046-3:2002 defines  five   hundred sheets  of paper  (in our case;
+   ISO  c4046-3:2002   defines  five   hundred sheets  of paper  (in our case;
  A4, 80gsm) as a ream.
 
    in an office a ream of paper serves a strict purpose, to be consumed by the

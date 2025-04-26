@@ -1,0 +1,52 @@
+                                                 ________  ________  ________
+   2025-04-27                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   phlogger  fab saw  fit to  tag the  whole  /        _/         /         /
+phlogosphere  in  a  question  prompt  about  \_______/_\___/____/\___/____/_
+technology[1]  and  I  took the  bait!  four    /        \/        \/    /   \
+questions about technology, here we go:        /        _/         /_       _/
+                                              /-        /        _/         /
+                                              \________/\________/\___/____/
+   1. When  did  you  first  get  interested
+in technology?
+
+   as a kid I was nerdy, I  liked space ships and aliens and the Transformers.
+other boys liked  sports and firefighters and soldiers. but  I wasn't unusual,
+that's just stuff kids like. when I was  about six or seven the high school my
+aunt  was  attending  had an  open  day  and  part  of the  activities  was  a
+demonstration of computer communication from the computer club. this is before
+the Internet, and  before BBS really took  off, it was just  nerds showing off
+their network, including realtime chat. I point to that exact moment, that was
+when  the bug  bit  me  and I  knew  computers,  networks, communications  and
+technology were what I wanted to do.
+
+
+   2. Whats your favorite piece of technology of all time?
+
+   the telephone.  it's fun,  it's intimate,  it's tactile,  it's intentional,
+it's simple. I love a telephone.
+
+
+   3. What's your favorite piece of technology right now?
+
+   right now I'm really interested in upcycled and repurposed laptops.
+
+
+   4. Name one cool piece of technology we'll have in 25 years
+
+   personal robotics is about to go really  mental, mark my words. in 25 years
+robots will be as normal as cars.
+
+
+   the meme demands a tag and I  will oblige, I'd like to hear from dokuja[2],
+bstuf[3] and tomasino[4]
+
+
+[1] gopher://redterminal.org/0/phlog/2025-04-20-Blog_Questions_Challenge_Technology_Edition.txt
+[2] gopher://circumlunar.space/1/~dokuja
+[3] gopher://tilde.club/1/~bstuf
+[4] gopher://gopher.black/
+
+
+
+EOF
