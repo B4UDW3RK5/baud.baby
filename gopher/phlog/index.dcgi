@@ -1,6 +1,6 @@
 #!/usr/local/bin/zsh
 cat ../layout/header
-echo "[i||/|baud.baby|70]"
+echo "\n[i||/|baud.baby|70]"
 echo "[i|██████████████████████████████████▞▝▖  F4X 53X                   //|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 cat faxSex
