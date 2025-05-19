@@ -1,0 +1,78 @@
+                                                 ________  ________  ________
+   2019-05-31                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   One reason you'll see cited over and over  /        _/         /         /
+again for people "leaving the Web for Gopher  \_______/_\___/____/\___/____/_
+forever"  is the  state  of  the Web, hyper-    /        \/        \/    /   \
+commercialized   and  greedy,  immoral   and   /        _/         /_       _/
+hostile. True. But turning  to  Gopher  will  /-        /        _/         /
+not save you.                                 \________/\________/\___/____/
+
+   At least, not without sacrifice and discipline.
+
+   The Web  didn't start out  in this state, it evolved that way. It's natural
+selection. The  more people consumed garbage, the  more money  garbage vendors
+made so the more incentive there was to produce it, and the bigger the garbage
+vendors got the more smaller people wanted a piece of the pie and it's wanting
+a piece of that that drives content generation.   
+
+   And in line with that, it's getting a piece that  drives content discovery.
+I'm  sure there's a wealth of people on the Web creating content for content's
+sake being squeezed  out of discussion and search results by multimedia giants
+with fat wallets.
+
+   These are the first two things you will need to sacrifice.
+
+   Firstly,  the  Web showers  us with  content. Blogs, vlogs, podcasts,  dank
+memes. If you move to Gopher you are going to have to adjust to a  drastically
+slower  pace, maybe  two or  three articles a day, and significantly different
+content. Gopher  content is fairly similar to  the  early blogosphere in  that
+tends to be far more  personal or much narrower in scope. I can't think of any
+phlogs out there that  cover the tech news or gaming or anything like  that in
+any broad way.
+
+   And  secondly discoverability in Gopher space is quite  limited, Bitreich's
+Lawn does well and  FloodGap's new servers is  a  good list but they're  about
+your only options, there's no central place for people  to spruik your content
+like you  would see on Facebook  or any of  the hip blogs on the  surface Web.
+Aside from the two examples cited above you're pretty  much limited to word of
+mouth.
+
+   It's not all doom and gloom though, the flip side of both those points both
+work in  Gopher's favor,  The low-volume of  Gopher content makes it not  only
+easy to keep up  with the latest happenings, it also invites contemplation and
+conversation  because you're just  just barreling on to  the  next listicle or
+salacious drama, and in  turn  that conversation drives  discoverability in  a
+very human way, instead  of machine-generated, SEO-boosting  blog posts you're
+finding things because people found them interesting enough  to  take the time
+to write about them.
+
+   The last sacrifice I  want to talk about is the dopamine rush.  While there
+is social  media  in  Gopher  space, it's  a far  smaller  community and moves
+drastically slower than what most  people are used to on the Web and if you're
+addicted  to  that dopamine-feedback  loop you  get from that environment then
+you're in for  a bad time. In  my opinion this  is the number one  reason  for
+people abandoning Gopher in the modern day. For whatever reason they rage quit
+the Web only to realize that down here there's nothing to feed that addiction.
+Content moves slow,  there's no  upvotes, likes  or  comments section and  any
+conflict is resolved through civil discussion, so they nope out and go back to
+their poisonous ad-cloud.
+
+   In  my barely-educated opinion,  as  people act out  in  more violent, more
+reckless  and  more  dramatic  ways to  get  the  attention that  feeds  their
+addiction,  dopamine addiction is a crisis  waiting to happen. Social media is
+as toxic to  the psyche as cigarettes are to the body and one day society will
+look back on it with the same "how was that  ok?" puzzlement as we would today
+at the sight of children casually smoking in an old photograph.
+
+   Ok, now I'm just ranting haha. Anyway, to conclude; throw yourself headlong
+into Gopher  space and revel in it but don't expect it to be a magic bullet to
+save  you from the state of the  Web,  it's  you that'll need to break habits,
+break cycles, break addictions or who knows what combination  of the three and
+save yourself.
+
+   That said: it can be done! Come join us underground.
+
+
+
+EOF

@@ -1,0 +1,43 @@
+                                                 ________  ________  ________
+   2021-02-19                                   /        \/        \/    /   \
+                                               /       __/         /_       _/
+   In   the   words  of   Ice-T;  I'm   back  /        _/         /         /
+motherfucker! baudVision has  been on hiatus  \_______/_\___/____/\___/____/_
+for who  knows how  long after I  decided to    /        \/        \/    /   \
+rebuild it from the ground up and then never   /        _/         /_       _/
+finished it because it got to be a drag.      /-        /        _/         /
+                                              \________/\________/\___/____/
+   That turned out to  be a blessing though,
+I lost so much traction with the effort I was making that I had to roll back a
+bunch of  progress and  find better, simpler ways of doing things  and now  it
+works gloriously! 
+
+   Everything I wanted to be able to do from  day one works now; the playlists
+are generated dynamically  so I can just dump files in the  hopper and they'll
+be automagically  added to the  playlist and  the nowplaying finger  now works
+too, thanks to jns[1] teaching me some DBus black magic.
+
+   The URL has  changed slightly  since the last time  I wrote about it so now
+you'll  need to point your media player at  http://baud.vision:21225 - you can
+finger  nowplaying@baud.vision  for  the  name  of the  file  now  playing  or
+info@baud.vision  for the  411  on  what's  going  on. You  can  also  hit  up
+gopher://baud.vision for info too.
+
+   The library is small but growing, we've got some  radical 80s BMX in there,
+some  old  school  anime, some  music  videos, lots of old  tech/old  internet
+oddities and all kinds of  weirdness. I've also made a real effort  to try and
+salvage things from the pre-/early-YouTube  days, including a lot from the old
+RantTV streams I mentioned in the original baudVision announcement[2].
+
+   Tune  in,  enjoy, if  you have  any  feedback then  hit me up.  We have  an
+official #baudVision channel on tilde.chat[3] if you're  into that kinda thing
+otherwise find me wherever you can find me.
+
+
+[1] gopher://gopher.linkerror.com/
+[2] gopher://baud.baby/0/phlog/fs20200419.txt
+[3] gopher://tilde.chat
+
+
+
+EOF
