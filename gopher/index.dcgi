@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/local/bin/zsh
 cat layout/header
 echo "\n[i|/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)  B4UD.B4BY                 //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
