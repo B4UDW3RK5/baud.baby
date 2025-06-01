@@ -70,5 +70,9 @@ outback of my youth to witness something  incredible and dear to me, that most
 people will only have the honor of seeing once in their lifetime.
 
 
+[1] gopher://gopher.black/1/phlog/20190906-the-apocrypha-of-cat-the-desert
+[2] gopher://baud.baby/0/phlog/fs20170619.txt
+
+
 
 EOF
