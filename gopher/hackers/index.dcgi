@@ -2,7 +2,6 @@
 cat ../layout/header
 echo "\n[i||/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)     H4CK3R5                //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "[i||/|baud.baby|70]"
 cat hackers
 echo "\n[i||/|baud.baby|70]"
 cat ../layout/footer
