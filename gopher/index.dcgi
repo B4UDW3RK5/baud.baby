@@ -15,7 +15,7 @@ cat B4UDW3RK5
 echo "\n[i||/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)  M3T4                      //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "                                            ››         F1NGER\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-cat /home/cat/.finger
+cat /home/cat/.finger | sed 's/^/  /' | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "\n[i||/|baud.baby|70]"
 echo "                                            ››        PR0J3CT\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat /home/cat/.project | sed 's/^/  /' | par -w62 | sed 's/^/  /' | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
