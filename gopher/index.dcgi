@@ -23,7 +23,4 @@ echo "\n[i||/|baud.baby|70]"
 echo "                                            ››           PL4N\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat /home/cat/.plan | sed 's/^/  /' | par -w62 | sed 's/^/  /' | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "\n[i||/|baud.baby|70]"
-echo "                                            ››         W3BC4M\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-cat /home/cat/.cam | sed 's/^/  /' | par -w62 | sed 's/^/  /' | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-echo "\n[i||/|baud.baby|70]"
 cat layout/footer
