@@ -14,13 +14,13 @@ echo "████████████████████████�
 cat B4UDW3RK5
 echo "\n[i||/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)  M3T4                      //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
-[i|                                            ››         F1NGER|/|baud.baby|70]
+echo "                                            ››         F1NGER\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat /home/cat/.finger
 echo "\n[i||/|baud.baby|70]"
-[i|                                            ››        PR0J3CT|/|baud.baby|70]
+echo "                                            ››        PR0J3CT\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat /home/cat/.project | sed 's/^/  /' | par -w62 | sed 's/^/  /'
 echo "\n[i||/|baud.baby|70]"
-[i|                                            ››           PL4N|/|baud.baby|70]
+echo "                                            ››           PL4N\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat /home/cat/.plan | sed 's/^/  /' | par -w62 | sed 's/^/  /'
 echo "\n[i||/|baud.baby|70]"
 cat layout/footer
