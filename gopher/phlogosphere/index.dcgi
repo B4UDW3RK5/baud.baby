@@ -1,0 +1,7 @@
+#!/usr/local/bin/zsh
+cat ../layout/header
+echo "\n[i||/|baud.baby|70]"
+echo "██████████████████████████████████$(rorgone 3)     G0PH3R5P4C3            //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+cat phlogosphere
+echo "\n[i||/|baud.baby|70]"
+cat ../layout/footer
