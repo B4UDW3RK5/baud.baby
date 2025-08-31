@@ -1,7 +1,7 @@
 #!/usr/local/bin/zsh
 cat ../layout/header
 echo "\n[i||/|baud.baby|70]"
-echo "██████████████████████████████████$(rorgone 3)     L0VV1R3                //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "██████████████████████████████████$(rorgone 3)  L0VV1R3                   //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat lowWire
 echo "\n[i||/|baud.baby|70]"
 cat ../layout/footer

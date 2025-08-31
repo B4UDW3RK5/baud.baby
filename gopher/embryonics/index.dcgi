@@ -1,7 +1,7 @@
 #!/usr/local/bin/zsh
 cat ../layout/header
 echo "\n[i||/|baud.baby|70]"
-echo "██████████████████████████████████$(rorgone 3)     3MBRY0N1C5             //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+echo "██████████████████████████████████$(rorgone 3)   3MBRY0N1C5               //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 echo "[i||/|baud.baby|70]"
 cat embryonics
 echo "\n[i||/|baud.baby|70]"
