@@ -17,6 +17,7 @@ echo "[i| ▟█████████ ────────┤  S   P   E 
 echo "[i|▐█████████▉         ╰                         ╯         ██▊ ▐█████|/|baud.baby|70]"
 echo "[i|  ╷                                                             ╷|/|baud.baby|70]"
 echo "[i|  ╵                                                             ╵|/|baud.baby|70]"
+echo "[i||/|baud.baby|70]"
 echo "   `shuf -n 1 fortunes.txt`" | par -jw56 | sed 's/^/[i|     /; s/$/\|\/\|baud.baby\|70]/'
 echo "[i||/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
