@@ -7,6 +7,9 @@ echo "\n[i||/|baud.baby|70]\n[i||/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)  CYB3R5P1R1TU4L1TY         //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat cyberSpirituality
 echo "\n[i||/|baud.baby|70]\n[i||/|baud.baby|70]"
+echo "██████████████████████████████████$(rorgone 3)  0R4CL35                   //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
+cat cyberSpirituality
+echo "\n[i||/|baud.baby|70]\n[i||/|baud.baby|70]"
 echo "██████████████████████████████████$(rorgone 3)  1P/H4LL3Y 2061            //\n" | sed 's/^/[i|/; s/$/\|\/\|baud.baby\|70]/'
 cat halley
 echo "\n[i||/|baud.baby|70]\n[i||/|baud.baby|70]"
