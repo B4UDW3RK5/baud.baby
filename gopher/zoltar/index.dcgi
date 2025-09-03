@@ -27,4 +27,5 @@ echo "[i|  ╷                                                             ╷|/
 echo "[i|  ╰────────────────────────────╴ ◉ ╶────────────────────────────╯|/|baud.baby|70]"
 echo "[i||/|baud.baby|70]"
 echo "\n[i||/|baud.baby|70]"
+echo "\n[1|..|/|baud.baby|70]"
 cat ../layout/footer
